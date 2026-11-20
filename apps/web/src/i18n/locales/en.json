@@ -1,0 +1,14 @@
+{
+  "brand": "Pool Ensemble",
+  "tagline": "Enter your Riot ID, discover what cast your champion pool forms, and share the card.",
+  "statusNotice": "Initial foundation ready. The lookup form and archetype gallery will follow in upcoming milestones.",
+  "languageSwitcher": {
+    "label": "Select language",
+    "ptBR": "PT-BR",
+    "en": "EN"
+  },
+  "legal": {
+    "disclaimer": "Pool Ensemble isn't endorsed by Riot Games and doesn't reflect the views or opinions of Riot Games or anyone officially involved in producing or managing Riot Games properties. Riot Games, and all associated properties are trademarks or registered trademarks of Riot Games, Inc.",
+    "jibberJabber": "Created under Riot Games' \"Legal Jibber Jabber\" policy using assets owned by Riot Games. Riot Games does not endorse or sponsor this project."
+  }
+}

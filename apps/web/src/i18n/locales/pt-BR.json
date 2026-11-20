@@ -1,0 +1,14 @@
+{
+  "brand": "Pool Ensemble",
+  "tagline": "Digite seu Riot ID, descubra que elenco o seu champion pool forma e compartilhe o card.",
+  "statusNotice": "Estrutura inicial pronta. O formulário de análise e a galeria de elencos entram nas próximas entregas.",
+  "languageSwitcher": {
+    "label": "Selecionar idioma",
+    "ptBR": "PT-BR",
+    "en": "EN"
+  },
+  "legal": {
+    "disclaimer": "Pool Ensemble não é endossado pela Riot Games e não reflete as visões ou opiniões da Riot Games ou de qualquer pessoa oficialmente envolvida na produção ou gerenciamento de propriedades da Riot Games. Riot Games e todas as propriedades associadas são marcas comerciais ou marcas registradas da Riot Games, Inc.",
+    "jibberJabber": "Criado sob a política \"Legal Jibber Jabber\" da Riot Games utilizando ativos de propriedade da Riot Games. A Riot Games não endossa nem patrocina este projeto."
+  }
+}
