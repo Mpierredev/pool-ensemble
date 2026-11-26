@@ -1,0 +1,24 @@
+id: Sion
+champion_id: 14
+name: Sion
+roles:
+  top: 0.95
+  support: 0.05
+classes:
+  tank: 0.8
+  bruiser: 0.2
+damage:
+  physical: 0.75
+  magic: 0.25
+style:
+  engage: 0.8
+  splitpush: 0.8
+  control: 0.55
+mobility: 0.35
+difficulty: 0.45
+off_meta: false
+tags:
+- int
+- train
+- health
+needs_review: false

@@ -1,0 +1,22 @@
+id: Fizz
+champion_id: 105
+name: Fizz
+roles:
+  mid: 1.0
+classes:
+  assassin: 0.95
+  diver: 0.05
+damage:
+  magic: 1.0
+style:
+  burst: 0.9
+  dive: 0.7
+  pick: 0.7
+mobility: 0.9
+difficulty: 0.6
+off_meta: false
+tags:
+- trident
+- trollpole
+- shark
+needs_review: false

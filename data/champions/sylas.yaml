@@ -1,0 +1,25 @@
+id: Sylas
+champion_id: 517
+name: Sylas
+roles:
+  mid: 0.8
+  top: 0.1
+  jungle: 0.1
+classes:
+  diver: 0.45
+  assassin: 0.35
+  bruiser: 0.2
+damage:
+  magic: 1.0
+style:
+  skirmish: 0.85
+  dive: 0.75
+  burst: 0.75
+mobility: 0.8
+difficulty: 0.75
+off_meta: false
+tags:
+- hijack
+- chains
+- theft
+needs_review: false

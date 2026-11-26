@@ -1,0 +1,23 @@
+id: Brand
+champion_id: 63
+name: Brand
+roles:
+  support: 0.65
+  mid: 0.2
+  jungle: 0.15
+classes:
+  mage: 1.0
+damage:
+  magic: 1.0
+style:
+  poke: 0.8
+  burst: 0.75
+  control: 0.5
+mobility: 0.2
+difficulty: 0.4
+off_meta: false
+tags:
+- burn
+- aoe
+- fire
+needs_review: false

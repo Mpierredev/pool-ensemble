@@ -1,0 +1,24 @@
+id: Shen
+champion_id: 98
+name: Shen
+roles:
+  top: 0.85
+  support: 0.15
+classes:
+  tank: 0.9
+  duelist: 0.1
+damage:
+  magic: 0.55
+  physical: 0.45
+style:
+  peel: 0.85
+  splitpush: 0.65
+  engage: 0.55
+mobility: 0.45
+difficulty: 0.55
+off_meta: false
+tags:
+- standunited
+- taunt
+- ninja
+needs_review: false

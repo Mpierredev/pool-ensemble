@@ -1,0 +1,24 @@
+id: DrMundo
+champion_id: 36
+name: Dr. Mundo
+roles:
+  top: 0.9
+  jungle: 0.1
+classes:
+  tank: 0.65
+  bruiser: 0.35
+damage:
+  physical: 0.6
+  magic: 0.4
+style:
+  scaling: 0.75
+  splitpush: 0.45
+  skirmish: 0.55
+mobility: 0.25
+difficulty: 0.2
+off_meta: false
+tags:
+- regen
+- cleaver
+- juggernaut
+needs_review: false

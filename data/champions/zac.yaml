@@ -1,0 +1,22 @@
+id: Zac
+champion_id: 154
+name: Zac
+roles:
+  jungle: 0.85
+  top: 0.15
+classes:
+  tank: 1.0
+damage:
+  magic: 1.0
+style:
+  engage: 0.95
+  dive: 0.8
+  peel: 0.55
+mobility: 0.85
+difficulty: 0.45
+off_meta: false
+tags:
+- slingshot
+- blobs
+- bounce
+needs_review: false

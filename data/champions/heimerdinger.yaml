@@ -1,0 +1,24 @@
+id: Heimerdinger
+champion_id: 74
+name: Heimerdinger
+roles:
+  top: 0.4
+  mid: 0.3
+  support: 0.3
+classes:
+  specialist: 0.6
+  mage: 0.4
+damage:
+  magic: 1.0
+style:
+  control: 0.85
+  poke: 0.75
+  chaos: 0.65
+mobility: 0.15
+difficulty: 0.55
+off_meta: true
+tags:
+- turrets
+- zone
+- yordle
+needs_review: false

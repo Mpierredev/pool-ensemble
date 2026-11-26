@@ -1,0 +1,22 @@
+id: Cassiopeia
+champion_id: 69
+name: Cassiopeia
+roles:
+  mid: 0.85
+  top: 0.15
+classes:
+  mage: 1.0
+damage:
+  magic: 1.0
+style:
+  control: 0.85
+  scaling: 0.85
+  skirmish: 0.6
+mobility: 0.3
+difficulty: 0.85
+off_meta: false
+tags:
+- snake
+- dps
+- ground
+needs_review: false

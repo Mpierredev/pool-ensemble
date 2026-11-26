@@ -1,0 +1,23 @@
+id: Neeko
+champion_id: 518
+name: Neeko
+roles:
+  mid: 0.5
+  support: 0.5
+classes:
+  mage: 0.8
+  specialist: 0.2
+damage:
+  magic: 1.0
+style:
+  engage: 0.8
+  burst: 0.75
+  chaos: 0.55
+mobility: 0.45
+difficulty: 0.55
+off_meta: false
+tags:
+- disguise
+- minion
+- popblossom
+needs_review: false

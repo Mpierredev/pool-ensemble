@@ -1,0 +1,30 @@
+id: documentario_selvas
+weight_vector:
+  roles:
+    jungle: 0.95
+  style:
+    skirmish: 0.7
+    pick: 0.55
+    engage: 0.5
+requires:
+  - feature: roles.jungle
+    min: 0.55
+signature_champions:
+  - LeeSin
+  - Viego
+  - Graves
+  - Nidalee
+  - Kindred
+  - Lillia
+  - MasterYi
+  - Kayn
+  - Elise
+  - Fiddlesticks
+  - Shyvana
+  - Udyr
+  - Belveth
+  - Nunu
+rarity_hint: common
+palette:
+  bg: "#0b1a14"
+  accent: "#34d399"

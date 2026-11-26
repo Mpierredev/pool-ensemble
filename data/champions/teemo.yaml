@@ -1,0 +1,24 @@
+id: Teemo
+champion_id: 17
+name: Teemo
+roles:
+  top: 0.9
+  support: 0.1
+classes:
+  specialist: 0.7
+  marksman: 0.3
+damage:
+  magic: 0.85
+  physical: 0.15
+style:
+  chaos: 0.9
+  poke: 0.8
+  control: 0.75
+mobility: 0.45
+difficulty: 0.3
+off_meta: true
+tags:
+- shrooms
+- blind
+- yordle
+needs_review: false

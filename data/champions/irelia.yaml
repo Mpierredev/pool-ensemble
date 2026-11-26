@@ -1,0 +1,24 @@
+id: Irelia
+champion_id: 39
+name: Irelia
+roles:
+  top: 0.6
+  mid: 0.4
+classes:
+  diver: 0.7
+  duelist: 0.3
+damage:
+  physical: 0.75
+  magic: 0.25
+style:
+  dive: 0.85
+  skirmish: 0.8
+  splitpush: 0.65
+mobility: 0.9
+difficulty: 0.9
+off_meta: false
+tags:
+- blades
+- resets
+- minion
+needs_review: false

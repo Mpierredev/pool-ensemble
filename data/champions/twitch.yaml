@@ -1,0 +1,25 @@
+id: Twitch
+champion_id: 29
+name: Twitch
+roles:
+  bot: 0.9
+  support: 0.1
+classes:
+  marksman: 0.85
+  assassin: 0.15
+damage:
+  physical: 0.8
+  'true': 0.15
+  magic: 0.05
+style:
+  scaling: 0.85
+  pick: 0.75
+  chaos: 0.45
+mobility: 0.4
+difficulty: 0.5
+off_meta: false
+tags:
+- rat
+- stealth
+- spray
+needs_review: false

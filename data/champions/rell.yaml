@@ -1,0 +1,23 @@
+id: Rell
+champion_id: 526
+name: Rell
+roles:
+  support: 0.95
+  jungle: 0.05
+classes:
+  tank: 1.0
+damage:
+  magic: 0.9
+  physical: 0.1
+style:
+  engage: 0.98
+  peel: 0.65
+  control: 0.5
+mobility: 0.55
+difficulty: 0.55
+off_meta: false
+tags:
+- magnet
+- ferromancy
+- wombo
+needs_review: false

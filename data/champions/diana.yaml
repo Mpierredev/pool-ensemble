@@ -1,0 +1,23 @@
+id: Diana
+champion_id: 131
+name: Diana
+roles:
+  jungle: 0.65
+  mid: 0.35
+classes:
+  diver: 0.75
+  assassin: 0.25
+damage:
+  magic: 1.0
+style:
+  dive: 0.9
+  engage: 0.8
+  burst: 0.75
+mobility: 0.65
+difficulty: 0.45
+off_meta: false
+tags:
+- moon
+- wombo
+- dash
+needs_review: false

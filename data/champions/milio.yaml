@@ -1,0 +1,21 @@
+id: Milio
+champion_id: 902
+name: Milio
+roles:
+  support: 1.0
+classes:
+  enchanter: 1.0
+damage:
+  magic: 0.95
+  physical: 0.05
+style:
+  peel: 0.98
+  scaling: 0.65
+mobility: 0.35
+difficulty: 0.35
+off_meta: false
+tags:
+- cleanse
+- range
+- flame
+needs_review: false

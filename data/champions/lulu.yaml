@@ -1,0 +1,22 @@
+id: Lulu
+champion_id: 117
+name: Lulu
+roles:
+  support: 1.0
+classes:
+  enchanter: 1.0
+damage:
+  magic: 0.95
+  physical: 0.05
+style:
+  peel: 0.98
+  poke: 0.4
+  scaling: 0.6
+mobility: 0.4
+difficulty: 0.45
+off_meta: false
+tags:
+- polymorph
+- pix
+- shields
+needs_review: false

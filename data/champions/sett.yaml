@@ -1,0 +1,24 @@
+id: Sett
+champion_id: 875
+name: Sett
+roles:
+  top: 0.9
+  support: 0.1
+classes:
+  bruiser: 0.85
+  tank: 0.15
+damage:
+  physical: 0.65
+  'true': 0.35
+style:
+  skirmish: 0.85
+  engage: 0.7
+  peel: 0.4
+mobility: 0.25
+difficulty: 0.3
+off_meta: false
+tags:
+- haymaker
+- boss
+- suplex
+needs_review: false

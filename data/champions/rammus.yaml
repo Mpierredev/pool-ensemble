@@ -1,0 +1,21 @@
+id: Rammus
+champion_id: 33
+name: Rammus
+roles:
+  jungle: 1.0
+classes:
+  tank: 1.0
+damage:
+  magic: 0.7
+  physical: 0.3
+style:
+  engage: 0.85
+  pick: 0.8
+mobility: 0.8
+difficulty: 0.2
+off_meta: false
+tags:
+- ok
+- taunt
+- armor
+needs_review: false

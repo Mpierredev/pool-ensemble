@@ -1,0 +1,21 @@
+id: Xayah
+champion_id: 498
+name: Xayah
+roles:
+  bot: 1.0
+classes:
+  marksman: 1.0
+damage:
+  physical: 1.0
+style:
+  peel: 0.6
+  scaling: 0.8
+  control: 0.55
+mobility: 0.4
+difficulty: 0.65
+off_meta: false
+tags:
+- feathers
+- root
+- vastaya
+needs_review: false

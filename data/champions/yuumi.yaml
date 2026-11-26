@@ -1,0 +1,22 @@
+id: Yuumi
+champion_id: 350
+name: Yuumi
+roles:
+  support: 1.0
+classes:
+  enchanter: 0.85
+  specialist: 0.15
+damage:
+  magic: 1.0
+style:
+  peel: 0.9
+  chaos: 0.65
+  scaling: 0.75
+mobility: 0.1
+difficulty: 0.2
+off_meta: true
+tags:
+- cat
+- book
+- attach
+needs_review: false

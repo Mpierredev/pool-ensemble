@@ -1,0 +1,21 @@
+id: Kalista
+champion_id: 429
+name: Kalista
+roles:
+  bot: 1.0
+classes:
+  marksman: 1.0
+damage:
+  physical: 1.0
+style:
+  skirmish: 0.8
+  engage: 0.55
+  pick: 0.4
+mobility: 0.9
+difficulty: 0.9
+off_meta: false
+tags:
+- hops
+- spears
+- oath
+needs_review: false

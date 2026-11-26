@@ -1,0 +1,24 @@
+id: Swain
+champion_id: 50
+name: Swain
+roles:
+  support: 0.45
+  mid: 0.35
+  bot: 0.2
+classes:
+  mage: 0.65
+  bruiser: 0.35
+damage:
+  magic: 1.0
+style:
+  control: 0.8
+  skirmish: 0.7
+  pick: 0.55
+mobility: 0.1
+difficulty: 0.5
+off_meta: false
+tags:
+- ravens
+- drain
+- noxus
+needs_review: false

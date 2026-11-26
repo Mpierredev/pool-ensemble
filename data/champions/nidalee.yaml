@@ -1,0 +1,23 @@
+id: Nidalee
+champion_id: 76
+name: Nidalee
+roles:
+  jungle: 1.0
+classes:
+  assassin: 0.6
+  mage: 0.4
+damage:
+  magic: 0.9
+  physical: 0.1
+style:
+  poke: 0.8
+  skirmish: 0.75
+  pick: 0.6
+mobility: 0.9
+difficulty: 0.95
+off_meta: false
+tags:
+- spear
+- cougar
+- tempo
+needs_review: false

@@ -1,0 +1,24 @@
+id: Lillia
+champion_id: 876
+name: Lillia
+roles:
+  jungle: 0.9
+  top: 0.1
+classes:
+  bruiser: 0.5
+  mage: 0.5
+damage:
+  magic: 0.85
+  'true': 0.15
+style:
+  skirmish: 0.8
+  engage: 0.65
+  scaling: 0.7
+mobility: 0.95
+difficulty: 0.55
+off_meta: false
+tags:
+- sleep
+- prance
+- speed
+needs_review: false

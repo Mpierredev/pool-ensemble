@@ -1,0 +1,24 @@
+id: RekSai
+champion_id: 421
+name: Rek'Sai
+roles:
+  jungle: 0.85
+  top: 0.15
+classes:
+  diver: 0.75
+  bruiser: 0.25
+damage:
+  physical: 0.85
+  'true': 0.15
+style:
+  dive: 0.85
+  pick: 0.75
+  skirmish: 0.75
+mobility: 0.7
+difficulty: 0.6
+off_meta: false
+tags:
+- tunnels
+- tremor
+- void
+needs_review: false

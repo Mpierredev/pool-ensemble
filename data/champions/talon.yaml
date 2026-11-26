@@ -1,0 +1,21 @@
+id: Talon
+champion_id: 91
+name: Talon
+roles:
+  mid: 0.6
+  jungle: 0.4
+classes:
+  assassin: 1.0
+damage:
+  physical: 1.0
+style:
+  burst: 0.9
+  pick: 0.85
+mobility: 0.95
+difficulty: 0.5
+off_meta: false
+tags:
+- parkour
+- blades
+- roam
+needs_review: false

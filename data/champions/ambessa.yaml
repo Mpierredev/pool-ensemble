@@ -1,0 +1,23 @@
+id: Ambessa
+champion_id: 799
+name: Ambessa
+roles:
+  top: 0.85
+  jungle: 0.15
+classes:
+  diver: 0.6
+  bruiser: 0.4
+damage:
+  physical: 1.0
+style:
+  dive: 0.75
+  skirmish: 0.75
+  engage: 0.55
+mobility: 0.8
+difficulty: 0.75
+off_meta: false
+tags:
+- noxus
+- dash
+- duelist
+needs_review: false

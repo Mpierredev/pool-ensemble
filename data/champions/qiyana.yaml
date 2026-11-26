@@ -1,0 +1,22 @@
+id: Qiyana
+champion_id: 246
+name: Qiyana
+roles:
+  mid: 0.75
+  jungle: 0.25
+classes:
+  assassin: 1.0
+damage:
+  physical: 1.0
+style:
+  burst: 0.9
+  engage: 0.65
+  pick: 0.7
+mobility: 0.85
+difficulty: 0.95
+off_meta: false
+tags:
+- elements
+- ixtal
+- wall
+needs_review: false

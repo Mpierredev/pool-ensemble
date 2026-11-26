@@ -1,0 +1,23 @@
+id: Galio
+champion_id: 3
+name: Galio
+roles:
+  mid: 0.7
+  support: 0.3
+classes:
+  tank: 0.6
+  mage: 0.4
+damage:
+  magic: 1.0
+style:
+  engage: 0.8
+  peel: 0.7
+  control: 0.5
+mobility: 0.45
+difficulty: 0.45
+off_meta: false
+tags:
+- taunt
+- roam
+- antimage
+needs_review: false

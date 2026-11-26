@@ -1,0 +1,21 @@
+id: Sona
+champion_id: 37
+name: Sona
+roles:
+  support: 1.0
+classes:
+  enchanter: 1.0
+damage:
+  magic: 1.0
+style:
+  peel: 0.9
+  scaling: 0.85
+  poke: 0.5
+mobility: 0.45
+difficulty: 0.2
+off_meta: false
+tags:
+- aura
+- crescendo
+- music
+needs_review: false

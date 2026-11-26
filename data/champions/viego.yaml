@@ -1,0 +1,23 @@
+id: Viego
+champion_id: 234
+name: Viego
+roles:
+  jungle: 1.0
+classes:
+  duelist: 0.55
+  assassin: 0.45
+damage:
+  physical: 0.95
+  magic: 0.05
+style:
+  skirmish: 0.9
+  dive: 0.6
+  pick: 0.65
+mobility: 0.7
+difficulty: 0.7
+off_meta: false
+tags:
+- possess
+- resets
+- mist
+needs_review: false

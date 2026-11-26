@@ -1,0 +1,23 @@
+id: Ezreal
+champion_id: 81
+name: Ezreal
+roles:
+  bot: 1.0
+classes:
+  marksman: 0.85
+  mage: 0.15
+damage:
+  physical: 0.7
+  magic: 0.3
+style:
+  poke: 0.9
+  skirmish: 0.6
+  scaling: 0.6
+mobility: 0.75
+difficulty: 0.7
+off_meta: false
+tags:
+- skillshot
+- blink
+- kiting
+needs_review: false

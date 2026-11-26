@@ -1,0 +1,22 @@
+id: Samira
+champion_id: 360
+name: Samira
+roles:
+  bot: 1.0
+classes:
+  marksman: 0.75
+  assassin: 0.25
+damage:
+  physical: 1.0
+style:
+  dive: 0.7
+  burst: 0.75
+  skirmish: 0.8
+mobility: 0.7
+difficulty: 0.7
+off_meta: false
+tags:
+- style
+- inferno
+- bladewhirl
+needs_review: false

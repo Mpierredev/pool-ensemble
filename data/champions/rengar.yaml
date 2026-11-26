@@ -1,0 +1,22 @@
+id: Rengar
+champion_id: 107
+name: Rengar
+roles:
+  jungle: 0.85
+  top: 0.15
+classes:
+  assassin: 0.85
+  bruiser: 0.15
+damage:
+  physical: 1.0
+style:
+  burst: 0.95
+  pick: 0.9
+mobility: 0.75
+difficulty: 0.85
+off_meta: false
+tags:
+- bush
+- leap
+- necklace
+needs_review: false

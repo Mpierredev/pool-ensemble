@@ -1,0 +1,22 @@
+id: Nocturne
+champion_id: 56
+name: Nocturne
+roles:
+  jungle: 1.0
+classes:
+  diver: 0.7
+  assassin: 0.3
+damage:
+  physical: 1.0
+style:
+  dive: 0.9
+  pick: 0.85
+  skirmish: 0.65
+mobility: 0.65
+difficulty: 0.3
+off_meta: false
+tags:
+- darkness
+- paranoia
+- fear
+needs_review: false

@@ -1,0 +1,22 @@
+id: Ornn
+champion_id: 516
+name: Ornn
+roles:
+  top: 1.0
+classes:
+  tank: 1.0
+damage:
+  magic: 0.6
+  physical: 0.4
+style:
+  engage: 0.9
+  peel: 0.6
+  scaling: 0.7
+mobility: 0.3
+difficulty: 0.5
+off_meta: false
+tags:
+- forge
+- horn
+- upgrades
+needs_review: false

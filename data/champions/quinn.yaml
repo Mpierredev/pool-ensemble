@@ -1,0 +1,23 @@
+id: Quinn
+champion_id: 133
+name: Quinn
+roles:
+  top: 0.95
+  mid: 0.05
+classes:
+  marksman: 0.55
+  specialist: 0.45
+damage:
+  physical: 1.0
+style:
+  splitpush: 0.8
+  pick: 0.75
+  chaos: 0.5
+mobility: 0.9
+difficulty: 0.5
+off_meta: true
+tags:
+- valor
+- roam
+- blind
+needs_review: false

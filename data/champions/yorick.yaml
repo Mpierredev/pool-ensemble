@@ -1,0 +1,22 @@
+id: Yorick
+champion_id: 83
+name: Yorick
+roles:
+  top: 1.0
+classes:
+  bruiser: 0.75
+  specialist: 0.25
+damage:
+  physical: 0.8
+  magic: 0.2
+style:
+  splitpush: 0.98
+  control: 0.45
+mobility: 0.15
+difficulty: 0.35
+off_meta: false
+tags:
+- maiden
+- ghouls
+- shovel
+needs_review: false

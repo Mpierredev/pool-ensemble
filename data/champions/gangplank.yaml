@@ -1,0 +1,24 @@
+id: Gangplank
+champion_id: 41
+name: Gangplank
+roles:
+  top: 0.9
+  mid: 0.1
+classes:
+  specialist: 0.65
+  duelist: 0.35
+damage:
+  physical: 0.75
+  'true': 0.25
+style:
+  scaling: 0.85
+  control: 0.7
+  poke: 0.65
+mobility: 0.35
+difficulty: 0.9
+off_meta: false
+tags:
+- barrels
+- oranges
+- global
+needs_review: false

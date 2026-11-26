@@ -1,0 +1,20 @@
+id: Malzahar
+champion_id: 90
+name: Malzahar
+roles:
+  mid: 1.0
+classes:
+  mage: 1.0
+damage:
+  magic: 1.0
+style:
+  control: 0.85
+  pick: 0.8
+mobility: 0.1
+difficulty: 0.25
+off_meta: false
+tags:
+- voidlings
+- suppress
+- push
+needs_review: false

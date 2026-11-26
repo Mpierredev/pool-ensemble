@@ -1,0 +1,22 @@
+id: Lissandra
+champion_id: 127
+name: Lissandra
+roles:
+  mid: 1.0
+classes:
+  mage: 0.9
+  specialist: 0.1
+damage:
+  magic: 1.0
+style:
+  control: 0.85
+  engage: 0.8
+  pick: 0.75
+mobility: 0.55
+difficulty: 0.55
+off_meta: false
+tags:
+- ice
+- tomb
+- roam
+needs_review: false

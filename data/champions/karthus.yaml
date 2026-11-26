@@ -1,0 +1,23 @@
+id: Karthus
+champion_id: 30
+name: Karthus
+roles:
+  jungle: 0.8
+  bot: 0.1
+  mid: 0.1
+classes:
+  mage: 1.0
+damage:
+  magic: 1.0
+style:
+  scaling: 0.9
+  control: 0.6
+  burst: 0.7
+mobility: 0.1
+difficulty: 0.65
+off_meta: false
+tags:
+- requiem
+- farm
+- global
+needs_review: false

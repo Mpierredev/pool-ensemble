@@ -1,0 +1,24 @@
+id: Zoe
+champion_id: 142
+name: Zoe
+roles:
+  mid: 0.9
+  support: 0.1
+classes:
+  mage: 0.85
+  assassin: 0.15
+damage:
+  magic: 0.9
+  'true': 0.1
+style:
+  poke: 0.9
+  burst: 0.85
+  pick: 0.85
+mobility: 0.5
+difficulty: 0.85
+off_meta: false
+tags:
+- sleep
+- paddle
+- sparkles
+needs_review: false

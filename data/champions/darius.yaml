@@ -1,0 +1,22 @@
+id: Darius
+champion_id: 122
+name: Darius
+roles:
+  top: 1.0
+classes:
+  bruiser: 0.9
+  duelist: 0.1
+damage:
+  physical: 0.75
+  'true': 0.25
+style:
+  skirmish: 0.85
+  engage: 0.45
+mobility: 0.2
+difficulty: 0.4
+off_meta: false
+tags:
+- dunk
+- bleed
+- noxus
+needs_review: false

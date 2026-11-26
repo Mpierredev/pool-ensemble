@@ -1,0 +1,22 @@
+id: XinZhao
+champion_id: 5
+name: Xin Zhao
+roles:
+  jungle: 1.0
+classes:
+  diver: 0.8
+  duelist: 0.2
+damage:
+  physical: 1.0
+style:
+  dive: 0.85
+  skirmish: 0.9
+  engage: 0.75
+mobility: 0.6
+difficulty: 0.3
+off_meta: false
+tags:
+- spear
+- early
+- arena
+needs_review: false

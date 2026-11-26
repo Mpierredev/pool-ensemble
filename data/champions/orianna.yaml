@@ -1,0 +1,22 @@
+id: Orianna
+champion_id: 61
+name: Orianna
+roles:
+  mid: 1.0
+classes:
+  mage: 0.9
+  enchanter: 0.1
+damage:
+  magic: 1.0
+style:
+  control: 0.95
+  poke: 0.65
+  engage: 0.6
+mobility: 0.25
+difficulty: 0.75
+off_meta: false
+tags:
+- ball
+- shockwave
+- zone
+needs_review: false

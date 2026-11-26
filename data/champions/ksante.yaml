@@ -1,0 +1,23 @@
+id: KSante
+champion_id: 897
+name: K'Sante
+roles:
+  top: 1.0
+classes:
+  tank: 0.65
+  duelist: 0.35
+damage:
+  physical: 0.85
+  'true': 0.15
+style:
+  peel: 0.65
+  skirmish: 0.75
+  engage: 0.55
+mobility: 0.65
+difficulty: 0.85
+off_meta: false
+tags:
+- nazumah
+- allout
+- warden
+needs_review: false

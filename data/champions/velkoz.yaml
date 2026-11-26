@@ -1,0 +1,23 @@
+id: Velkoz
+champion_id: 161
+name: Vel'Koz
+roles:
+  support: 0.65
+  mid: 0.35
+classes:
+  mage: 1.0
+damage:
+  magic: 0.7
+  'true': 0.3
+style:
+  poke: 0.9
+  control: 0.75
+  burst: 0.65
+mobility: 0.1
+difficulty: 0.6
+off_meta: false
+tags:
+- geometry
+- laser
+- void
+needs_review: false

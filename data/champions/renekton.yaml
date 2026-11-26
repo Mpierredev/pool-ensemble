@@ -1,0 +1,24 @@
+id: Renekton
+champion_id: 58
+name: Renekton
+roles:
+  top: 0.95
+  mid: 0.05
+classes:
+  bruiser: 0.75
+  diver: 0.25
+damage:
+  physical: 0.9
+  magic: 0.1
+style:
+  skirmish: 0.85
+  dive: 0.7
+  burst: 0.55
+mobility: 0.6
+difficulty: 0.4
+off_meta: false
+tags:
+- croc
+- fury
+- stun
+needs_review: false

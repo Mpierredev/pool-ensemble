@@ -1,0 +1,23 @@
+id: Ivern
+champion_id: 427
+name: Ivern
+roles:
+  jungle: 1.0
+classes:
+  enchanter: 0.65
+  specialist: 0.35
+damage:
+  magic: 0.9
+  'true': 0.1
+style:
+  peel: 0.85
+  chaos: 0.65
+  control: 0.5
+mobility: 0.35
+difficulty: 0.7
+off_meta: true
+tags:
+- daisy
+- friends
+- pacifist
+needs_review: false

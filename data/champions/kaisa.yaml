@@ -1,0 +1,23 @@
+id: Kaisa
+champion_id: 145
+name: Kai'Sa
+roles:
+  bot: 1.0
+classes:
+  marksman: 0.85
+  assassin: 0.15
+damage:
+  physical: 0.65
+  magic: 0.35
+style:
+  scaling: 0.8
+  dive: 0.5
+  burst: 0.65
+mobility: 0.7
+difficulty: 0.65
+off_meta: false
+tags:
+- void
+- plasma
+- evolution
+needs_review: false

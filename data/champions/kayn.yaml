@@ -1,0 +1,24 @@
+id: Kayn
+champion_id: 141
+name: Kayn
+roles:
+  jungle: 1.0
+classes:
+  assassin: 0.5
+  bruiser: 0.35
+  diver: 0.15
+damage:
+  physical: 0.95
+  magic: 0.05
+style:
+  skirmish: 0.75
+  dive: 0.7
+  burst: 0.6
+mobility: 0.9
+difficulty: 0.5
+off_meta: false
+tags:
+- forms
+- wallwalk
+- scythe
+needs_review: false

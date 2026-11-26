@@ -1,0 +1,30 @@
+id: sitcom_suportes
+weight_vector:
+  roles:
+    support: 0.95
+  classes:
+    enchanter: 0.95
+  damage:
+    magic: 0.75
+  style:
+    peel: 0.95
+    poke: 0.35
+  mobility: 0.35
+requires:
+  - feature: classes.enchanter
+    min: 0.35
+  - feature: style.peel
+    min: 0.45
+signature_champions:
+  - Janna
+  - Lulu
+  - Soraka
+  - Nami
+  - Milio
+  - Sona
+  - Seraphine
+  - Renata
+rarity_hint: common
+palette:
+  bg: "#121c2b"
+  accent: "#5cd6b3"

@@ -1,0 +1,23 @@
+id: Pyke
+champion_id: 555
+name: Pyke
+roles:
+  support: 1.0
+classes:
+  assassin: 0.85
+  specialist: 0.15
+damage:
+  physical: 0.75
+  'true': 0.25
+style:
+  pick: 0.9
+  chaos: 0.5
+  burst: 0.75
+mobility: 0.9
+difficulty: 0.75
+off_meta: false
+tags:
+- hook
+- execute
+- gold
+needs_review: false

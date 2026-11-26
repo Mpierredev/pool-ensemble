@@ -1,0 +1,23 @@
+id: Belveth
+champion_id: 200
+name: Bel'Veth
+roles:
+  jungle: 1.0
+classes:
+  duelist: 0.6
+  diver: 0.4
+damage:
+  physical: 0.75
+  'true': 0.25
+style:
+  skirmish: 0.85
+  splitpush: 0.55
+  scaling: 0.65
+mobility: 0.75
+difficulty: 0.6
+off_meta: false
+tags:
+- void
+- swarm
+- dash
+needs_review: false

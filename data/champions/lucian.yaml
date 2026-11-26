@@ -1,0 +1,22 @@
+id: Lucian
+champion_id: 236
+name: Lucian
+roles:
+  bot: 0.85
+  mid: 0.15
+classes:
+  marksman: 1.0
+damage:
+  physical: 0.95
+  magic: 0.05
+style:
+  skirmish: 0.85
+  burst: 0.7
+mobility: 0.75
+difficulty: 0.6
+off_meta: false
+tags:
+- dash
+- culling
+- tempo
+needs_review: false

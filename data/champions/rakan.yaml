@@ -1,0 +1,22 @@
+id: Rakan
+champion_id: 497
+name: Rakan
+roles:
+  support: 1.0
+classes:
+  enchanter: 0.5
+  tank: 0.5
+damage:
+  magic: 0.95
+  physical: 0.05
+style:
+  engage: 0.95
+  peel: 0.65
+mobility: 0.9
+difficulty: 0.65
+off_meta: false
+tags:
+- charm
+- grand
+- dancer
+needs_review: false

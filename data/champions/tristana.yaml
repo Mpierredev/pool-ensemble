@@ -1,0 +1,24 @@
+id: Tristana
+champion_id: 18
+name: Tristana
+roles:
+  bot: 0.7
+  mid: 0.3
+classes:
+  marksman: 0.8
+  assassin: 0.2
+damage:
+  physical: 0.95
+  magic: 0.05
+style:
+  burst: 0.75
+  scaling: 0.75
+  splitpush: 0.6
+mobility: 0.8
+difficulty: 0.35
+off_meta: false
+tags:
+- jump
+- resets
+- towers
+needs_review: false

@@ -1,0 +1,32 @@
+id: anime_magos
+weight_vector:
+  roles:
+    mid: 0.85
+  classes:
+    mage: 0.9
+  damage:
+    magic: 0.95
+  style:
+    burst: 0.9
+    pick: 0.65
+    poke: 0.45
+requires:
+  - feature: classes.mage
+    min: 0.35
+  - feature: style.burst
+    min: 0.45
+signature_champions:
+  - Ahri
+  - Lux
+  - Syndra
+  - Zoe
+  - Annie
+  - Veigar
+  - Leblanc
+  - Vex
+  - Aurora
+  - Mel
+rarity_hint: common
+palette:
+  bg: "#181028"
+  accent: "#d96bff"

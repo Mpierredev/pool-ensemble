@@ -1,0 +1,22 @@
+id: Xerath
+champion_id: 101
+name: Xerath
+roles:
+  support: 0.55
+  mid: 0.45
+classes:
+  mage: 1.0
+damage:
+  magic: 1.0
+style:
+  poke: 0.98
+  control: 0.75
+  burst: 0.6
+mobility: 0.05
+difficulty: 0.55
+off_meta: false
+tags:
+- artillery
+- scripts
+- range
+needs_review: false

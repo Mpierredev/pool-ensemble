@@ -1,0 +1,23 @@
+id: Rumble
+champion_id: 68
+name: Rumble
+roles:
+  top: 0.75
+  mid: 0.25
+classes:
+  bruiser: 0.55
+  mage: 0.45
+damage:
+  magic: 1.0
+style:
+  control: 0.8
+  skirmish: 0.75
+  poke: 0.55
+mobility: 0.3
+difficulty: 0.7
+off_meta: false
+tags:
+- heat
+- equalizer
+- mech
+needs_review: false

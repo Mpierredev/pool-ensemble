@@ -1,0 +1,23 @@
+id: Nunu
+champion_id: 20
+name: Nunu & Willump
+roles:
+  jungle: 1.0
+classes:
+  tank: 0.75
+  specialist: 0.25
+damage:
+  magic: 0.9
+  'true': 0.1
+style:
+  engage: 0.85
+  control: 0.55
+  chaos: 0.45
+mobility: 0.75
+difficulty: 0.35
+off_meta: false
+tags:
+- snowball
+- chomp
+- objective
+needs_review: false

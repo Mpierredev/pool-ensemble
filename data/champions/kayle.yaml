@@ -1,0 +1,24 @@
+id: Kayle
+champion_id: 10
+name: Kayle
+roles:
+  top: 0.9
+  mid: 0.1
+classes:
+  specialist: 0.5
+  marksman: 0.5
+damage:
+  magic: 0.65
+  physical: 0.35
+style:
+  scaling: 0.98
+  peel: 0.4
+  splitpush: 0.55
+mobility: 0.45
+difficulty: 0.45
+off_meta: false
+tags:
+- wings
+- ascend
+- late
+needs_review: false

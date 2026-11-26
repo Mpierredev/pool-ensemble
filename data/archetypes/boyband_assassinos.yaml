@@ -1,0 +1,33 @@
+id: boyband_assassinos
+weight_vector:
+  roles:
+    mid: 0.5
+    jungle: 0.35
+  classes:
+    assassin: 0.95
+  style:
+    burst: 0.85
+    pick: 0.75
+  mobility: 0.85
+requires:
+  - feature: classes.assassin
+    min: 0.35
+  - feature: mobility
+    min: 0.55
+signature_champions:
+  - Zed
+  - Talon
+  - Akali
+  - Katarina
+  - Qiyana
+  - Fizz
+  - Ekko
+  - Khazix
+  - Evelynn
+  - Rengar
+  - Pyke
+  - Naafiri
+rarity_hint: common
+palette:
+  bg: "#14111c"
+  accent: "#ff477e"

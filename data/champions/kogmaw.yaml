@@ -1,0 +1,22 @@
+id: KogMaw
+champion_id: 96
+name: Kog'Maw
+roles:
+  bot: 1.0
+classes:
+  marksman: 0.9
+  mage: 0.1
+damage:
+  magic: 0.55
+  physical: 0.45
+style:
+  scaling: 0.98
+  poke: 0.55
+mobility: 0.1
+difficulty: 0.55
+off_meta: false
+tags:
+- void
+- artillery
+- melt
+needs_review: false

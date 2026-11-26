@@ -1,0 +1,23 @@
+id: Naafiri
+champion_id: 950
+name: Naafiri
+roles:
+  mid: 0.8
+  jungle: 0.2
+classes:
+  assassin: 0.9
+  diver: 0.1
+damage:
+  physical: 1.0
+style:
+  burst: 0.8
+  pick: 0.75
+  dive: 0.65
+mobility: 0.75
+difficulty: 0.3
+off_meta: false
+tags:
+- hounds
+- pack
+- darkin
+needs_review: false

@@ -1,0 +1,21 @@
+id: Viktor
+champion_id: 112
+name: Viktor
+roles:
+  mid: 1.0
+classes:
+  mage: 1.0
+damage:
+  magic: 1.0
+style:
+  control: 0.95
+  scaling: 0.85
+  poke: 0.7
+mobility: 0.25
+difficulty: 0.65
+off_meta: false
+tags:
+- hexcore
+- laser
+- gravity
+needs_review: false

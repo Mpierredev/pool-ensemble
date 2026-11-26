@@ -1,0 +1,24 @@
+id: Chogath
+champion_id: 31
+name: Cho'Gath
+roles:
+  top: 0.75
+  mid: 0.25
+classes:
+  tank: 0.8
+  mage: 0.2
+damage:
+  magic: 0.65
+  'true': 0.35
+style:
+  control: 0.55
+  engage: 0.55
+  scaling: 0.65
+mobility: 0.15
+difficulty: 0.3
+off_meta: false
+tags:
+- void
+- feast
+- silence
+needs_review: false

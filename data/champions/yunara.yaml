@@ -1,0 +1,21 @@
+id: Yunara
+champion_id: 804
+name: Yunara
+roles:
+  bot: 1.0
+classes:
+  marksman: 1.0
+damage:
+  physical: 0.85
+  magic: 0.15
+style:
+  scaling: 0.8
+  skirmish: 0.55
+mobility: 0.55
+difficulty: 0.6
+off_meta: false
+tags:
+- marksman
+- tempo
+- kiting
+needs_review: false

@@ -1,0 +1,22 @@
+id: Aphelios
+champion_id: 523
+name: Aphelios
+roles:
+  bot: 1.0
+classes:
+  marksman: 1.0
+damage:
+  physical: 0.9
+  magic: 0.1
+style:
+  scaling: 0.95
+  control: 0.4
+  skirmish: 0.45
+mobility: 0.2
+difficulty: 0.95
+off_meta: false
+tags:
+- weapons
+- hypercarry
+- lunari
+needs_review: false

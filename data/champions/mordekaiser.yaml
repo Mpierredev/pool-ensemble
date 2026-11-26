@@ -1,0 +1,22 @@
+id: Mordekaiser
+champion_id: 82
+name: Mordekaiser
+roles:
+  top: 0.9
+  jungle: 0.1
+classes:
+  bruiser: 0.9
+  duelist: 0.1
+damage:
+  magic: 1.0
+style:
+  skirmish: 0.85
+  pick: 0.5
+mobility: 0.2
+difficulty: 0.3
+off_meta: false
+tags:
+- brazil
+- realm
+- mace
+needs_review: false

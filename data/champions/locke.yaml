@@ -1,0 +1,24 @@
+id: Locke
+champion_id: 805
+name: Locke
+roles:
+  mid: 0.6
+  jungle: 0.4
+classes:
+  assassin: 0.7
+  mage: 0.3
+damage:
+  magic: 0.9
+  physical: 0.1
+style:
+  burst: 0.75
+  pick: 0.65
+  dive: 0.45
+mobility: 0.75
+difficulty: 0.65
+off_meta: false
+tags:
+- shadow
+- burst
+- ambush
+needs_review: false

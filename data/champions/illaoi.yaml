@@ -1,0 +1,21 @@
+id: Illaoi
+champion_id: 420
+name: Illaoi
+roles:
+  top: 1.0
+classes:
+  bruiser: 1.0
+damage:
+  physical: 1.0
+style:
+  splitpush: 0.85
+  control: 0.65
+  skirmish: 0.7
+mobility: 0.15
+difficulty: 0.5
+off_meta: false
+tags:
+- tentacles
+- test
+- juggernaut
+needs_review: false

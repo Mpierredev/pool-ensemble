@@ -1,0 +1,29 @@
+id: faroeste_splitpushers
+weight_vector:
+  roles:
+    top: 0.85
+  classes:
+    duelist: 0.65
+    bruiser: 0.6
+  style:
+    splitpush: 0.95
+    skirmish: 0.55
+requires:
+  - feature: style.splitpush
+    min: 0.50
+signature_champions:
+  - Tryndamere
+  - Yorick
+  - Jax
+  - Trundle
+  - Nasus
+  - Fiora
+  - Camille
+  - Illaoi
+  - Gwen
+  - Sion
+  - Quinn
+rarity_hint: uncommon
+palette:
+  bg: "#1c170f"
+  accent: "#d97706"

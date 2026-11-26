@@ -1,0 +1,23 @@
+id: Vayne
+champion_id: 67
+name: Vayne
+roles:
+  bot: 0.7
+  top: 0.3
+classes:
+  marksman: 0.75
+  duelist: 0.25
+damage:
+  physical: 0.65
+  'true': 0.35
+style:
+  scaling: 0.9
+  skirmish: 0.8
+mobility: 0.75
+difficulty: 0.8
+off_meta: false
+tags:
+- silverbolts
+- tumble
+- duel
+needs_review: false

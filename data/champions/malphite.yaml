@@ -1,0 +1,24 @@
+id: Malphite
+champion_id: 54
+name: Malphite
+roles:
+  top: 0.85
+  support: 0.1
+  mid: 0.05
+classes:
+  tank: 0.9
+  mage: 0.1
+damage:
+  magic: 0.8
+  physical: 0.2
+style:
+  engage: 0.98
+  poke: 0.35
+mobility: 0.4
+difficulty: 0.15
+off_meta: false
+tags:
+- rock
+- unstoppable
+- armor
+needs_review: false

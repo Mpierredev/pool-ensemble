@@ -1,0 +1,35 @@
+id: orquestra_controle
+weight_vector:
+  roles:
+    mid: 0.8
+  classes:
+    mage: 0.95
+  damage:
+    magic: 0.9
+  style:
+    control: 0.95
+    scaling: 0.75
+    poke: 0.6
+requires:
+  - feature: style.control
+    min: 0.55
+  - feature: classes.mage
+    min: 0.40
+signature_champions:
+  - Orianna
+  - Viktor
+  - Azir
+  - Anivia
+  - Taliyah
+  - Hwei
+  - Ryze
+  - Cassiopeia
+  - Malzahar
+  - Xerath
+  - Velkoz
+  - Ziggs
+  - AurelionSol
+rarity_hint: uncommon
+palette:
+  bg: "#101626"
+  accent: "#818cf8"

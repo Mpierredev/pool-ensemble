@@ -1,0 +1,23 @@
+id: Olaf
+champion_id: 2
+name: Olaf
+roles:
+  top: 0.7
+  jungle: 0.3
+classes:
+  bruiser: 0.8
+  duelist: 0.2
+damage:
+  physical: 0.75
+  'true': 0.25
+style:
+  skirmish: 0.9
+  dive: 0.7
+mobility: 0.45
+difficulty: 0.35
+off_meta: false
+tags:
+- ragnarok
+- axes
+- unstoppable
+needs_review: false

@@ -1,0 +1,23 @@
+id: Singed
+champion_id: 27
+name: Singed
+roles:
+  top: 0.95
+  mid: 0.05
+classes:
+  specialist: 0.7
+  tank: 0.3
+damage:
+  magic: 1.0
+style:
+  chaos: 0.98
+  splitpush: 0.75
+  engage: 0.55
+mobility: 0.7
+difficulty: 0.6
+off_meta: true
+tags:
+- proxy
+- poison
+- fling
+needs_review: false

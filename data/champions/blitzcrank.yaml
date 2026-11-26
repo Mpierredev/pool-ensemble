@@ -1,0 +1,22 @@
+id: Blitzcrank
+champion_id: 53
+name: Blitzcrank
+roles:
+  support: 1.0
+classes:
+  tank: 0.85
+  specialist: 0.15
+damage:
+  magic: 0.8
+  physical: 0.2
+style:
+  pick: 0.95
+  engage: 0.75
+mobility: 0.4
+difficulty: 0.35
+off_meta: false
+tags:
+- hook
+- robot
+- pick
+needs_review: false

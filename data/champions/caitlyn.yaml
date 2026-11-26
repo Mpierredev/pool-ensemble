@@ -1,0 +1,21 @@
+id: Caitlyn
+champion_id: 51
+name: Caitlyn
+roles:
+  bot: 1.0
+classes:
+  marksman: 1.0
+damage:
+  physical: 1.0
+style:
+  poke: 0.8
+  control: 0.55
+  scaling: 0.7
+mobility: 0.35
+difficulty: 0.5
+off_meta: false
+tags:
+- sniper
+- traps
+- range
+needs_review: false

@@ -1,0 +1,22 @@
+id: Anivia
+champion_id: 34
+name: Anivia
+roles:
+  mid: 1.0
+classes:
+  mage: 0.95
+  specialist: 0.05
+damage:
+  magic: 1.0
+style:
+  control: 0.95
+  scaling: 0.75
+  burst: 0.45
+mobility: 0.15
+difficulty: 0.7
+off_meta: false
+tags:
+- bird
+- wall
+- waveclear
+needs_review: false

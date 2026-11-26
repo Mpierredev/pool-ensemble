@@ -1,0 +1,24 @@
+id: Seraphine
+champion_id: 147
+name: Seraphine
+roles:
+  support: 0.75
+  bot: 0.2
+  mid: 0.05
+classes:
+  enchanter: 0.65
+  mage: 0.35
+damage:
+  magic: 1.0
+style:
+  peel: 0.8
+  control: 0.8
+  poke: 0.75
+mobility: 0.2
+difficulty: 0.35
+off_meta: false
+tags:
+- encore
+- notes
+- popstar
+needs_review: false

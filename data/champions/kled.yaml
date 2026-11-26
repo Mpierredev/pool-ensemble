@@ -1,0 +1,22 @@
+id: Kled
+champion_id: 240
+name: Kled
+roles:
+  top: 1.0
+classes:
+  diver: 0.6
+  bruiser: 0.4
+damage:
+  physical: 1.0
+style:
+  engage: 0.85
+  dive: 0.85
+  skirmish: 0.75
+mobility: 0.7
+difficulty: 0.65
+off_meta: false
+tags:
+- skaarl
+- remount
+- charge
+needs_review: false

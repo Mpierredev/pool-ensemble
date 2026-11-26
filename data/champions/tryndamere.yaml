@@ -1,0 +1,22 @@
+id: Tryndamere
+champion_id: 23
+name: Tryndamere
+roles:
+  top: 0.95
+  mid: 0.05
+classes:
+  duelist: 0.8
+  bruiser: 0.2
+damage:
+  physical: 1.0
+style:
+  splitpush: 0.98
+  skirmish: 0.75
+mobility: 0.7
+difficulty: 0.3
+off_meta: false
+tags:
+- undying
+- crit
+- spin
+needs_review: false

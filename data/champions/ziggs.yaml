@@ -1,0 +1,22 @@
+id: Ziggs
+champion_id: 115
+name: Ziggs
+roles:
+  bot: 0.55
+  mid: 0.45
+classes:
+  mage: 1.0
+damage:
+  magic: 1.0
+style:
+  poke: 0.95
+  control: 0.8
+  splitpush: 0.5
+mobility: 0.35
+difficulty: 0.45
+off_meta: false
+tags:
+- bombs
+- towers
+- siege
+needs_review: false

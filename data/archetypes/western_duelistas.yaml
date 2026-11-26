@@ -1,0 +1,33 @@
+id: western_duelistas
+weight_vector:
+  roles:
+    top: 0.8
+  classes:
+    duelist: 0.8
+    bruiser: 0.75
+  damage:
+    physical: 0.8
+  style:
+    skirmish: 0.9
+    splitpush: 0.55
+requires:
+  - feature: style.skirmish
+    min: 0.50
+signature_champions:
+  - Fiora
+  - Riven
+  - Darius
+  - Aatrox
+  - Yasuo
+  - Yone
+  - Sett
+  - Mordekaiser
+  - Renekton
+  - Olaf
+  - Gwen
+  - Jax
+  - KSante
+rarity_hint: common
+palette:
+  bg: "#1f140d"
+  accent: "#e07a3f"

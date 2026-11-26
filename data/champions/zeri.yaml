@@ -1,0 +1,21 @@
+id: Zeri
+champion_id: 221
+name: Zeri
+roles:
+  bot: 1.0
+classes:
+  marksman: 1.0
+damage:
+  physical: 0.85
+  magic: 0.15
+style:
+  scaling: 0.85
+  skirmish: 0.75
+mobility: 0.9
+difficulty: 0.8
+off_meta: false
+tags:
+- lightning
+- wallride
+- zaun
+needs_review: false

@@ -1,0 +1,22 @@
+id: Jhin
+champion_id: 202
+name: Jhin
+roles:
+  bot: 1.0
+classes:
+  marksman: 1.0
+damage:
+  physical: 0.95
+  magic: 0.05
+style:
+  pick: 0.85
+  burst: 0.7
+  poke: 0.55
+mobility: 0.35
+difficulty: 0.6
+off_meta: false
+tags:
+- four
+- curtain
+- drama
+needs_review: false

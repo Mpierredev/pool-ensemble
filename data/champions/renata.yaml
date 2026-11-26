@@ -1,0 +1,22 @@
+id: Renata
+champion_id: 888
+name: Renata Glasc
+roles:
+  support: 1.0
+classes:
+  enchanter: 0.85
+  specialist: 0.15
+damage:
+  magic: 0.95
+  physical: 0.05
+style:
+  peel: 0.9
+  control: 0.8
+mobility: 0.2
+difficulty: 0.7
+off_meta: false
+tags:
+- bailout
+- berserk
+- chemtech
+needs_review: false

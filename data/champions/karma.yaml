@@ -1,0 +1,23 @@
+id: Karma
+champion_id: 43
+name: Karma
+roles:
+  support: 0.75
+  mid: 0.2
+  top: 0.05
+classes:
+  enchanter: 0.65
+  mage: 0.35
+damage:
+  magic: 1.0
+style:
+  poke: 0.85
+  peel: 0.8
+mobility: 0.55
+difficulty: 0.35
+off_meta: false
+tags:
+- mantra
+- shield
+- speed
+needs_review: false

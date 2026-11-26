@@ -1,0 +1,31 @@
+id: reality_tanks
+weight_vector:
+  classes:
+    tank: 0.95
+  style:
+    engage: 0.9
+    peel: 0.6
+  mobility: 0.35
+requires:
+  - feature: classes.tank
+    min: 0.40
+  - feature: style.engage
+    min: 0.45
+signature_champions:
+  - Ornn
+  - Malphite
+  - Sion
+  - Maokai
+  - Nautilus
+  - Leona
+  - Braum
+  - Alistar
+  - Thresh
+  - Sejuani
+  - Amumu
+  - Zac
+  - Rell
+rarity_hint: common
+palette:
+  bg: "#0f1724"
+  accent: "#60a5fa"

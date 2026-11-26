@@ -1,0 +1,23 @@
+id: Sejuani
+champion_id: 113
+name: Sejuani
+roles:
+  jungle: 0.9
+  top: 0.1
+classes:
+  tank: 1.0
+damage:
+  magic: 0.75
+  physical: 0.25
+style:
+  engage: 0.95
+  peel: 0.7
+  control: 0.6
+mobility: 0.5
+difficulty: 0.4
+off_meta: false
+tags:
+- boar
+- glacial
+- stun
+needs_review: false

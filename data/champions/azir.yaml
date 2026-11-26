@@ -1,0 +1,22 @@
+id: Azir
+champion_id: 268
+name: Azir
+roles:
+  mid: 1.0
+classes:
+  mage: 0.8
+  specialist: 0.2
+damage:
+  magic: 1.0
+style:
+  control: 0.9
+  scaling: 0.85
+  engage: 0.45
+mobility: 0.6
+difficulty: 0.95
+off_meta: false
+tags:
+- shurima
+- soldiers
+- shuffle
+needs_review: false

@@ -1,0 +1,23 @@
+id: Bard
+champion_id: 432
+name: Bard
+roles:
+  support: 1.0
+classes:
+  specialist: 0.6
+  enchanter: 0.4
+damage:
+  magic: 0.85
+  physical: 0.15
+style:
+  chaos: 0.85
+  pick: 0.75
+  peel: 0.4
+mobility: 0.75
+difficulty: 0.8
+off_meta: true
+tags:
+- chimes
+- roam
+- portal
+needs_review: false

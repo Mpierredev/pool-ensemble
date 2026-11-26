@@ -1,0 +1,22 @@
+id: Vex
+champion_id: 711
+name: Vex
+roles:
+  mid: 1.0
+classes:
+  mage: 0.8
+  assassin: 0.2
+damage:
+  magic: 1.0
+style:
+  burst: 0.85
+  engage: 0.7
+  control: 0.65
+mobility: 0.45
+difficulty: 0.45
+off_meta: false
+tags:
+- gloom
+- shadow
+- antidash
+needs_review: false

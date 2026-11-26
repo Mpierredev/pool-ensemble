@@ -1,0 +1,25 @@
+id: Pantheon
+champion_id: 80
+name: Pantheon
+roles:
+  support: 0.4
+  top: 0.35
+  mid: 0.2
+  jungle: 0.05
+classes:
+  diver: 0.75
+  assassin: 0.25
+damage:
+  physical: 1.0
+style:
+  pick: 0.8
+  dive: 0.8
+  burst: 0.7
+mobility: 0.6
+difficulty: 0.35
+off_meta: false
+tags:
+- spear
+- shield
+- mandrop
+needs_review: false

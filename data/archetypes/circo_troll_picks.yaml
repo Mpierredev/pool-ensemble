@@ -1,0 +1,25 @@
+id: circo_troll_picks
+weight_vector:
+  classes:
+    specialist: 0.85
+  style:
+    chaos: 0.95
+    poke: 0.4
+requires:
+  - feature: style.chaos
+    min: 0.30
+signature_champions:
+  - Teemo
+  - Shaco
+  - Singed
+  - Heimerdinger
+  - Bard
+  - Ivern
+  - Yuumi
+  - Zilean
+  - Quinn
+  - Briar
+rarity_hint: rare
+palette:
+  bg: "#1b0f1e"
+  accent: "#f43f5e"

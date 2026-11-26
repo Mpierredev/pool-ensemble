@@ -1,0 +1,23 @@
+id: Ahri
+champion_id: 103
+name: Ahri
+roles:
+  mid: 1.0
+classes:
+  mage: 0.7
+  assassin: 0.3
+damage:
+  magic: 0.9
+  'true': 0.1
+style:
+  burst: 0.65
+  pick: 0.7
+  poke: 0.25
+mobility: 0.75
+difficulty: 0.5
+off_meta: false
+tags:
+- charm
+- fox
+- roam
+needs_review: false

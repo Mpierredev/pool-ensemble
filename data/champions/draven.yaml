@@ -1,0 +1,21 @@
+id: Draven
+champion_id: 119
+name: Draven
+roles:
+  bot: 1.0
+classes:
+  marksman: 1.0
+damage:
+  physical: 1.0
+style:
+  skirmish: 0.8
+  burst: 0.65
+  chaos: 0.3
+mobility: 0.45
+difficulty: 0.85
+off_meta: false
+tags:
+- axes
+- snowball
+- ego
+needs_review: false

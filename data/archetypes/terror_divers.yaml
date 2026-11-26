@@ -1,0 +1,31 @@
+id: terror_divers
+weight_vector:
+  classes:
+    diver: 0.9
+    bruiser: 0.3
+  style:
+    dive: 0.9
+    engage: 0.8
+    skirmish: 0.5
+  mobility: 0.65
+requires:
+  - feature: style.dive
+    min: 0.45
+  - feature: classes.diver
+    min: 0.25
+signature_champions:
+  - Vi
+  - JarvanIV
+  - Diana
+  - Nocturne
+  - Camille
+  - Irelia
+  - Hecarim
+  - LeeSin
+  - XinZhao
+  - RekSai
+  - Ambessa
+rarity_hint: rare
+palette:
+  bg: "#120a14"
+  accent: "#c0334d"

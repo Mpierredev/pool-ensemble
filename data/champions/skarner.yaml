@@ -1,0 +1,24 @@
+id: Skarner
+champion_id: 72
+name: Skarner
+roles:
+  jungle: 0.9
+  top: 0.1
+classes:
+  tank: 0.85
+  bruiser: 0.15
+damage:
+  physical: 0.7
+  magic: 0.3
+style:
+  engage: 0.9
+  control: 0.7
+  pick: 0.75
+mobility: 0.6
+difficulty: 0.45
+off_meta: false
+tags:
+- impale
+- scorpion
+- terrain
+needs_review: false

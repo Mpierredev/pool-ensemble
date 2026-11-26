@@ -1,0 +1,997 @@
+version: 16.23.1
+champions:
+- id: Aatrox
+  champion_id: 266
+  name: Aatrox
+  ddragon_tags:
+  - Fighter
+- id: Ahri
+  champion_id: 103
+  name: Ahri
+  ddragon_tags:
+  - Mage
+  - Assassin
+- id: Akali
+  champion_id: 84
+  name: Akali
+  ddragon_tags:
+  - Assassin
+- id: Akshan
+  champion_id: 166
+  name: Akshan
+  ddragon_tags:
+  - Marksman
+  - Assassin
+- id: Alistar
+  champion_id: 12
+  name: Alistar
+  ddragon_tags:
+  - Tank
+  - Support
+- id: Ambessa
+  champion_id: 799
+  name: Ambessa
+  ddragon_tags:
+  - Fighter
+  - Assassin
+- id: Amumu
+  champion_id: 32
+  name: Amumu
+  ddragon_tags:
+  - Tank
+  - Support
+- id: Anivia
+  champion_id: 34
+  name: Anivia
+  ddragon_tags:
+  - Mage
+- id: Annie
+  champion_id: 1
+  name: Annie
+  ddragon_tags:
+  - Mage
+  - Support
+- id: Aphelios
+  champion_id: 523
+  name: Aphelios
+  ddragon_tags:
+  - Marksman
+- id: Ashe
+  champion_id: 22
+  name: Ashe
+  ddragon_tags:
+  - Marksman
+  - Support
+- id: AurelionSol
+  champion_id: 136
+  name: Aurelion Sol
+  ddragon_tags:
+  - Mage
+- id: Aurora
+  champion_id: 893
+  name: Aurora
+  ddragon_tags:
+  - Mage
+  - Assassin
+- id: Azir
+  champion_id: 268
+  name: Azir
+  ddragon_tags:
+  - Mage
+  - Marksman
+- id: Bard
+  champion_id: 432
+  name: Bard
+  ddragon_tags:
+  - Support
+  - Mage
+- id: Belveth
+  champion_id: 200
+  name: Bel'Veth
+  ddragon_tags:
+  - Fighter
+- id: Blitzcrank
+  champion_id: 53
+  name: Blitzcrank
+  ddragon_tags:
+  - Tank
+  - Support
+- id: Brand
+  champion_id: 63
+  name: Brand
+  ddragon_tags:
+  - Mage
+  - Support
+- id: Braum
+  champion_id: 201
+  name: Braum
+  ddragon_tags:
+  - Tank
+  - Support
+- id: Briar
+  champion_id: 233
+  name: Briar
+  ddragon_tags:
+  - Fighter
+  - Assassin
+- id: Caitlyn
+  champion_id: 51
+  name: Caitlyn
+  ddragon_tags:
+  - Marksman
+- id: Camille
+  champion_id: 164
+  name: Camille
+  ddragon_tags:
+  - Fighter
+  - Assassin
+- id: Cassiopeia
+  champion_id: 69
+  name: Cassiopeia
+  ddragon_tags:
+  - Mage
+- id: Chogath
+  champion_id: 31
+  name: Cho'Gath
+  ddragon_tags:
+  - Tank
+  - Mage
+- id: Corki
+  champion_id: 42
+  name: Corki
+  ddragon_tags:
+  - Marksman
+  - Mage
+- id: Darius
+  champion_id: 122
+  name: Darius
+  ddragon_tags:
+  - Fighter
+  - Tank
+- id: Diana
+  champion_id: 131
+  name: Diana
+  ddragon_tags:
+  - Fighter
+  - Assassin
+- id: DrMundo
+  champion_id: 36
+  name: Dr. Mundo
+  ddragon_tags:
+  - Tank
+  - Fighter
+- id: Draven
+  champion_id: 119
+  name: Draven
+  ddragon_tags:
+  - Marksman
+- id: Ekko
+  champion_id: 245
+  name: Ekko
+  ddragon_tags:
+  - Assassin
+  - Mage
+- id: Elise
+  champion_id: 60
+  name: Elise
+  ddragon_tags:
+  - Assassin
+  - Mage
+- id: Evelynn
+  champion_id: 28
+  name: Evelynn
+  ddragon_tags:
+  - Assassin
+  - Mage
+- id: Ezreal
+  champion_id: 81
+  name: Ezreal
+  ddragon_tags:
+  - Marksman
+  - Mage
+- id: Fiddlesticks
+  champion_id: 9
+  name: Fiddlesticks
+  ddragon_tags:
+  - Mage
+  - Support
+- id: Fiora
+  champion_id: 114
+  name: Fiora
+  ddragon_tags:
+  - Fighter
+  - Assassin
+- id: Fizz
+  champion_id: 105
+  name: Fizz
+  ddragon_tags:
+  - Assassin
+  - Fighter
+- id: Galio
+  champion_id: 3
+  name: Galio
+  ddragon_tags:
+  - Tank
+  - Mage
+- id: Gangplank
+  champion_id: 41
+  name: Gangplank
+  ddragon_tags:
+  - Fighter
+- id: Garen
+  champion_id: 86
+  name: Garen
+  ddragon_tags:
+  - Fighter
+  - Tank
+- id: Gnar
+  champion_id: 150
+  name: Gnar
+  ddragon_tags:
+  - Fighter
+  - Tank
+- id: Gragas
+  champion_id: 79
+  name: Gragas
+  ddragon_tags:
+  - Fighter
+  - Mage
+- id: Graves
+  champion_id: 104
+  name: Graves
+  ddragon_tags:
+  - Marksman
+- id: Gwen
+  champion_id: 887
+  name: Gwen
+  ddragon_tags:
+  - Fighter
+- id: Hecarim
+  champion_id: 120
+  name: Hecarim
+  ddragon_tags:
+  - Fighter
+  - Tank
+- id: Heimerdinger
+  champion_id: 74
+  name: Heimerdinger
+  ddragon_tags:
+  - Mage
+  - Support
+- id: Hwei
+  champion_id: 910
+  name: Hwei
+  ddragon_tags:
+  - Mage
+  - Support
+- id: Illaoi
+  champion_id: 420
+  name: Illaoi
+  ddragon_tags:
+  - Fighter
+  - Tank
+- id: Irelia
+  champion_id: 39
+  name: Irelia
+  ddragon_tags:
+  - Fighter
+  - Assassin
+- id: Ivern
+  champion_id: 427
+  name: Ivern
+  ddragon_tags:
+  - Support
+  - Mage
+- id: Janna
+  champion_id: 40
+  name: Janna
+  ddragon_tags:
+  - Support
+  - Mage
+- id: JarvanIV
+  champion_id: 59
+  name: Jarvan IV
+  ddragon_tags:
+  - Fighter
+  - Tank
+- id: Jax
+  champion_id: 24
+  name: Jax
+  ddragon_tags:
+  - Fighter
+- id: Jayce
+  champion_id: 126
+  name: Jayce
+  ddragon_tags:
+  - Fighter
+  - Marksman
+- id: Jhin
+  champion_id: 202
+  name: Jhin
+  ddragon_tags:
+  - Marksman
+  - Mage
+- id: Jinx
+  champion_id: 222
+  name: Jinx
+  ddragon_tags:
+  - Marksman
+- id: KSante
+  champion_id: 897
+  name: K'Sante
+  ddragon_tags:
+  - Tank
+  - Fighter
+- id: Kaisa
+  champion_id: 145
+  name: Kai'Sa
+  ddragon_tags:
+  - Marksman
+  - Mage
+- id: Kalista
+  champion_id: 429
+  name: Kalista
+  ddragon_tags:
+  - Marksman
+- id: Karma
+  champion_id: 43
+  name: Karma
+  ddragon_tags:
+  - Mage
+  - Support
+- id: Karthus
+  champion_id: 30
+  name: Karthus
+  ddragon_tags:
+  - Mage
+- id: Kassadin
+  champion_id: 38
+  name: Kassadin
+  ddragon_tags:
+  - Assassin
+  - Mage
+- id: Katarina
+  champion_id: 55
+  name: Katarina
+  ddragon_tags:
+  - Assassin
+  - Mage
+- id: Kayle
+  champion_id: 10
+  name: Kayle
+  ddragon_tags:
+  - Marksman
+  - Mage
+- id: Kayn
+  champion_id: 141
+  name: Kayn
+  ddragon_tags:
+  - Fighter
+  - Assassin
+- id: Kennen
+  champion_id: 85
+  name: Kennen
+  ddragon_tags:
+  - Mage
+- id: Khazix
+  champion_id: 121
+  name: Kha'Zix
+  ddragon_tags:
+  - Assassin
+- id: Kindred
+  champion_id: 203
+  name: Kindred
+  ddragon_tags:
+  - Marksman
+- id: Kled
+  champion_id: 240
+  name: Kled
+  ddragon_tags:
+  - Fighter
+- id: KogMaw
+  champion_id: 96
+  name: Kog'Maw
+  ddragon_tags:
+  - Marksman
+  - Mage
+- id: Leblanc
+  champion_id: 7
+  name: LeBlanc
+  ddragon_tags:
+  - Assassin
+  - Mage
+- id: LeeSin
+  champion_id: 64
+  name: Lee Sin
+  ddragon_tags:
+  - Fighter
+  - Assassin
+- id: Leona
+  champion_id: 89
+  name: Leona
+  ddragon_tags:
+  - Tank
+  - Support
+- id: Lillia
+  champion_id: 876
+  name: Lillia
+  ddragon_tags:
+  - Fighter
+  - Mage
+- id: Lissandra
+  champion_id: 127
+  name: Lissandra
+  ddragon_tags:
+  - Mage
+- id: Locke
+  champion_id: 805
+  name: Locke
+  ddragon_tags:
+  - Assassin
+  - Mage
+- id: Lucian
+  champion_id: 236
+  name: Lucian
+  ddragon_tags:
+  - Marksman
+  - Assassin
+- id: Lulu
+  champion_id: 117
+  name: Lulu
+  ddragon_tags:
+  - Support
+  - Mage
+- id: Lux
+  champion_id: 99
+  name: Lux
+  ddragon_tags:
+  - Mage
+  - Support
+- id: Malphite
+  champion_id: 54
+  name: Malphite
+  ddragon_tags:
+  - Tank
+  - Mage
+- id: Malzahar
+  champion_id: 90
+  name: Malzahar
+  ddragon_tags:
+  - Mage
+- id: Maokai
+  champion_id: 57
+  name: Maokai
+  ddragon_tags:
+  - Tank
+  - Support
+- id: MasterYi
+  champion_id: 11
+  name: Master Yi
+  ddragon_tags:
+  - Fighter
+  - Assassin
+- id: Mel
+  champion_id: 800
+  name: Mel
+  ddragon_tags:
+  - Mage
+  - Support
+- id: Milio
+  champion_id: 902
+  name: Milio
+  ddragon_tags:
+  - Support
+  - Mage
+- id: MissFortune
+  champion_id: 21
+  name: Miss Fortune
+  ddragon_tags:
+  - Marksman
+  - Mage
+- id: MonkeyKing
+  champion_id: 62
+  name: Wukong
+  ddragon_tags:
+  - Fighter
+  - Tank
+- id: Mordekaiser
+  champion_id: 82
+  name: Mordekaiser
+  ddragon_tags:
+  - Fighter
+  - Mage
+- id: Morgana
+  champion_id: 25
+  name: Morgana
+  ddragon_tags:
+  - Support
+  - Mage
+- id: Naafiri
+  champion_id: 950
+  name: Naafiri
+  ddragon_tags:
+  - Assassin
+  - Fighter
+- id: Nami
+  champion_id: 267
+  name: Nami
+  ddragon_tags:
+  - Support
+  - Mage
+- id: Nasus
+  champion_id: 75
+  name: Nasus
+  ddragon_tags:
+  - Fighter
+  - Tank
+- id: Nautilus
+  champion_id: 111
+  name: Nautilus
+  ddragon_tags:
+  - Tank
+  - Support
+- id: Neeko
+  champion_id: 518
+  name: Neeko
+  ddragon_tags:
+  - Mage
+  - Support
+- id: Nidalee
+  champion_id: 76
+  name: Nidalee
+  ddragon_tags:
+  - Assassin
+  - Mage
+- id: Nilah
+  champion_id: 895
+  name: Nilah
+  ddragon_tags:
+  - Fighter
+  - Assassin
+- id: Nocturne
+  champion_id: 56
+  name: Nocturne
+  ddragon_tags:
+  - Fighter
+  - Assassin
+- id: Nunu
+  champion_id: 20
+  name: Nunu & Willump
+  ddragon_tags:
+  - Tank
+  - Mage
+- id: Olaf
+  champion_id: 2
+  name: Olaf
+  ddragon_tags:
+  - Fighter
+  - Tank
+- id: Orianna
+  champion_id: 61
+  name: Orianna
+  ddragon_tags:
+  - Mage
+  - Support
+- id: Ornn
+  champion_id: 516
+  name: Ornn
+  ddragon_tags:
+  - Tank
+- id: Pantheon
+  champion_id: 80
+  name: Pantheon
+  ddragon_tags:
+  - Fighter
+  - Assassin
+- id: Poppy
+  champion_id: 78
+  name: Poppy
+  ddragon_tags:
+  - Tank
+  - Fighter
+- id: Pyke
+  champion_id: 555
+  name: Pyke
+  ddragon_tags:
+  - Support
+  - Assassin
+- id: Qiyana
+  champion_id: 246
+  name: Qiyana
+  ddragon_tags:
+  - Assassin
+- id: Quinn
+  champion_id: 133
+  name: Quinn
+  ddragon_tags:
+  - Marksman
+  - Assassin
+- id: Rakan
+  champion_id: 497
+  name: Rakan
+  ddragon_tags:
+  - Support
+- id: Rammus
+  champion_id: 33
+  name: Rammus
+  ddragon_tags:
+  - Tank
+- id: RekSai
+  champion_id: 421
+  name: Rek'Sai
+  ddragon_tags:
+  - Fighter
+  - Tank
+- id: Rell
+  champion_id: 526
+  name: Rell
+  ddragon_tags:
+  - Tank
+  - Support
+- id: Renata
+  champion_id: 888
+  name: Renata Glasc
+  ddragon_tags:
+  - Support
+  - Mage
+- id: Renekton
+  champion_id: 58
+  name: Renekton
+  ddragon_tags:
+  - Fighter
+  - Tank
+- id: Rengar
+  champion_id: 107
+  name: Rengar
+  ddragon_tags:
+  - Assassin
+  - Fighter
+- id: Riven
+  champion_id: 92
+  name: Riven
+  ddragon_tags:
+  - Fighter
+  - Assassin
+- id: Rumble
+  champion_id: 68
+  name: Rumble
+  ddragon_tags:
+  - Fighter
+  - Mage
+- id: Ryze
+  champion_id: 13
+  name: Ryze
+  ddragon_tags:
+  - Mage
+- id: Samira
+  champion_id: 360
+  name: Samira
+  ddragon_tags:
+  - Marksman
+  - Assassin
+- id: Sejuani
+  champion_id: 113
+  name: Sejuani
+  ddragon_tags:
+  - Tank
+- id: Senna
+  champion_id: 235
+  name: Senna
+  ddragon_tags:
+  - Support
+  - Marksman
+- id: Seraphine
+  champion_id: 147
+  name: Seraphine
+  ddragon_tags:
+  - Support
+  - Mage
+- id: Sett
+  champion_id: 875
+  name: Sett
+  ddragon_tags:
+  - Fighter
+  - Tank
+- id: Shaco
+  champion_id: 35
+  name: Shaco
+  ddragon_tags:
+  - Assassin
+- id: Shen
+  champion_id: 98
+  name: Shen
+  ddragon_tags:
+  - Tank
+- id: Shyvana
+  champion_id: 102
+  name: Shyvana
+  ddragon_tags:
+  - Fighter
+  - Tank
+- id: Singed
+  champion_id: 27
+  name: Singed
+  ddragon_tags:
+  - Tank
+  - Mage
+- id: Sion
+  champion_id: 14
+  name: Sion
+  ddragon_tags:
+  - Tank
+  - Fighter
+- id: Sivir
+  champion_id: 15
+  name: Sivir
+  ddragon_tags:
+  - Marksman
+- id: Skarner
+  champion_id: 72
+  name: Skarner
+  ddragon_tags:
+  - Tank
+  - Fighter
+- id: Smolder
+  champion_id: 901
+  name: Smolder
+  ddragon_tags:
+  - Marksman
+  - Mage
+- id: Sona
+  champion_id: 37
+  name: Sona
+  ddragon_tags:
+  - Support
+  - Mage
+- id: Soraka
+  champion_id: 16
+  name: Soraka
+  ddragon_tags:
+  - Support
+  - Mage
+- id: Swain
+  champion_id: 50
+  name: Swain
+  ddragon_tags:
+  - Mage
+  - Support
+- id: Sylas
+  champion_id: 517
+  name: Sylas
+  ddragon_tags:
+  - Mage
+  - Assassin
+- id: Syndra
+  champion_id: 134
+  name: Syndra
+  ddragon_tags:
+  - Mage
+- id: TahmKench
+  champion_id: 223
+  name: Tahm Kench
+  ddragon_tags:
+  - Tank
+  - Support
+- id: Taliyah
+  champion_id: 163
+  name: Taliyah
+  ddragon_tags:
+  - Mage
+  - Support
+- id: Talon
+  champion_id: 91
+  name: Talon
+  ddragon_tags:
+  - Assassin
+- id: Taric
+  champion_id: 44
+  name: Taric
+  ddragon_tags:
+  - Support
+  - Tank
+- id: Teemo
+  champion_id: 17
+  name: Teemo
+  ddragon_tags:
+  - Marksman
+  - Mage
+- id: Thresh
+  champion_id: 412
+  name: Thresh
+  ddragon_tags:
+  - Support
+  - Tank
+- id: Tristana
+  champion_id: 18
+  name: Tristana
+  ddragon_tags:
+  - Marksman
+  - Assassin
+- id: Trundle
+  champion_id: 48
+  name: Trundle
+  ddragon_tags:
+  - Fighter
+  - Tank
+- id: Tryndamere
+  champion_id: 23
+  name: Tryndamere
+  ddragon_tags:
+  - Fighter
+  - Assassin
+- id: TwistedFate
+  champion_id: 4
+  name: Twisted Fate
+  ddragon_tags:
+  - Mage
+  - Marksman
+- id: Twitch
+  champion_id: 29
+  name: Twitch
+  ddragon_tags:
+  - Marksman
+  - Assassin
+- id: Udyr
+  champion_id: 77
+  name: Udyr
+  ddragon_tags:
+  - Fighter
+  - Tank
+- id: Urgot
+  champion_id: 6
+  name: Urgot
+  ddragon_tags:
+  - Fighter
+  - Tank
+- id: Varus
+  champion_id: 110
+  name: Varus
+  ddragon_tags:
+  - Marksman
+  - Mage
+- id: Vayne
+  champion_id: 67
+  name: Vayne
+  ddragon_tags:
+  - Marksman
+  - Assassin
+- id: Veigar
+  champion_id: 45
+  name: Veigar
+  ddragon_tags:
+  - Mage
+- id: Velkoz
+  champion_id: 161
+  name: Vel'Koz
+  ddragon_tags:
+  - Mage
+  - Support
+- id: Vex
+  champion_id: 711
+  name: Vex
+  ddragon_tags:
+  - Mage
+- id: Vi
+  champion_id: 254
+  name: Vi
+  ddragon_tags:
+  - Fighter
+  - Assassin
+- id: Viego
+  champion_id: 234
+  name: Viego
+  ddragon_tags:
+  - Fighter
+  - Assassin
+- id: Viktor
+  champion_id: 112
+  name: Viktor
+  ddragon_tags:
+  - Mage
+- id: Vladimir
+  champion_id: 8
+  name: Vladimir
+  ddragon_tags:
+  - Mage
+  - Fighter
+- id: Volibear
+  champion_id: 106
+  name: Volibear
+  ddragon_tags:
+  - Fighter
+  - Tank
+- id: Warwick
+  champion_id: 19
+  name: Warwick
+  ddragon_tags:
+  - Fighter
+  - Tank
+- id: Xayah
+  champion_id: 498
+  name: Xayah
+  ddragon_tags:
+  - Marksman
+- id: Xerath
+  champion_id: 101
+  name: Xerath
+  ddragon_tags:
+  - Mage
+  - Support
+- id: XinZhao
+  champion_id: 5
+  name: Xin Zhao
+  ddragon_tags:
+  - Fighter
+  - Tank
+- id: Yasuo
+  champion_id: 157
+  name: Yasuo
+  ddragon_tags:
+  - Fighter
+  - Assassin
+- id: Yone
+  champion_id: 777
+  name: Yone
+  ddragon_tags:
+  - Fighter
+  - Assassin
+- id: Yorick
+  champion_id: 83
+  name: Yorick
+  ddragon_tags:
+  - Fighter
+  - Tank
+- id: Yunara
+  champion_id: 804
+  name: Yunara
+  ddragon_tags:
+  - Marksman
+- id: Yuumi
+  champion_id: 350
+  name: Yuumi
+  ddragon_tags:
+  - Support
+  - Mage
+- id: Zaahen
+  champion_id: 904
+  name: Zaahen
+  ddragon_tags:
+  - Fighter
+- id: Zac
+  champion_id: 154
+  name: Zac
+  ddragon_tags:
+  - Tank
+  - Fighter
+- id: Zed
+  champion_id: 238
+  name: Zed
+  ddragon_tags:
+  - Assassin
+- id: Zeri
+  champion_id: 221
+  name: Zeri
+  ddragon_tags:
+  - Marksman
+- id: Ziggs
+  champion_id: 115
+  name: Ziggs
+  ddragon_tags:
+  - Mage
+- id: Zilean
+  champion_id: 26
+  name: Zilean
+  ddragon_tags:
+  - Support
+  - Mage
+- id: Zoe
+  champion_id: 142
+  name: Zoe
+  ddragon_tags:
+  - Mage
+- id: Zyra
+  champion_id: 143
+  name: Zyra
+  ddragon_tags:
+  - Mage
+  - Support

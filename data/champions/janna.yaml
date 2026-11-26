@@ -1,0 +1,22 @@
+id: Janna
+champion_id: 40
+name: Janna
+roles:
+  support: 1.0
+classes:
+  enchanter: 1.0
+damage:
+  magic: 0.9
+  physical: 0.1
+style:
+  peel: 0.98
+  poke: 0.45
+  control: 0.55
+mobility: 0.65
+difficulty: 0.4
+off_meta: false
+tags:
+- wind
+- tornado
+- shield
+needs_review: false

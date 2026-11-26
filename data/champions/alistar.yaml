@@ -1,0 +1,21 @@
+id: Alistar
+champion_id: 12
+name: Alistar
+roles:
+  support: 1.0
+classes:
+  tank: 1.0
+damage:
+  magic: 0.85
+  physical: 0.15
+style:
+  engage: 0.9
+  peel: 0.65
+mobility: 0.45
+difficulty: 0.45
+off_meta: false
+tags:
+- cow
+- knockup
+- roam
+needs_review: false

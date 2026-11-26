@@ -1,0 +1,23 @@
+id: Zilean
+champion_id: 26
+name: Zilean
+roles:
+  support: 0.85
+  mid: 0.15
+classes:
+  enchanter: 0.6
+  specialist: 0.4
+damage:
+  magic: 1.0
+style:
+  peel: 0.85
+  control: 0.7
+  chaos: 0.65
+mobility: 0.7
+difficulty: 0.55
+off_meta: true
+tags:
+- revive
+- bombs
+- clock
+needs_review: false

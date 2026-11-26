@@ -1,0 +1,24 @@
+id: Akshan
+champion_id: 166
+name: Akshan
+roles:
+  mid: 0.7
+  top: 0.3
+classes:
+  marksman: 0.65
+  assassin: 0.35
+damage:
+  physical: 0.9
+  magic: 0.1
+style:
+  pick: 0.65
+  burst: 0.55
+  skirmish: 0.5
+mobility: 0.75
+difficulty: 0.75
+off_meta: false
+tags:
+- revive
+- stealth
+- swing
+needs_review: false

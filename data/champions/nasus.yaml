@@ -1,0 +1,23 @@
+id: Nasus
+champion_id: 75
+name: Nasus
+roles:
+  top: 0.95
+  mid: 0.05
+classes:
+  bruiser: 0.75
+  tank: 0.25
+damage:
+  physical: 0.85
+  magic: 0.15
+style:
+  splitpush: 0.9
+  scaling: 0.95
+mobility: 0.15
+difficulty: 0.2
+off_meta: false
+tags:
+- stacks
+- cane
+- wither
+needs_review: false

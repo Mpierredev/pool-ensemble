@@ -1,0 +1,34 @@
+id: novela_marksmen
+weight_vector:
+  roles:
+    bot: 0.95
+  classes:
+    marksman: 0.95
+  damage:
+    physical: 0.85
+  style:
+    scaling: 0.8
+    skirmish: 0.45
+requires:
+  - feature: classes.marksman
+    min: 0.45
+  - feature: roles.bot
+    min: 0.40
+signature_champions:
+  - Jinx
+  - Kaisa
+  - Caitlyn
+  - Ezreal
+  - Vayne
+  - Ashe
+  - Jhin
+  - Lucian
+  - MissFortune
+  - Aphelios
+  - Xayah
+  - Samira
+  - Zeri
+rarity_hint: common
+palette:
+  bg: "#1c1215"
+  accent: "#f59e0b"

@@ -1,0 +1,23 @@
+id: Hecarim
+champion_id: 120
+name: Hecarim
+roles:
+  jungle: 1.0
+classes:
+  diver: 0.8
+  bruiser: 0.2
+damage:
+  physical: 0.9
+  magic: 0.1
+style:
+  engage: 0.85
+  dive: 0.85
+  skirmish: 0.65
+mobility: 0.9
+difficulty: 0.45
+off_meta: false
+tags:
+- pony
+- charge
+- speed
+needs_review: false

@@ -1,0 +1,20 @@
+id: Soraka
+champion_id: 16
+name: Soraka
+roles:
+  support: 1.0
+classes:
+  enchanter: 1.0
+damage:
+  magic: 1.0
+style:
+  peel: 0.98
+  poke: 0.4
+mobility: 0.25
+difficulty: 0.3
+off_meta: false
+tags:
+- ambulance
+- wish
+- silence
+needs_review: false

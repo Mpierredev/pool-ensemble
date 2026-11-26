@@ -1,0 +1,23 @@
+id: MasterYi
+champion_id: 11
+name: Master Yi
+roles:
+  jungle: 1.0
+classes:
+  duelist: 0.65
+  assassin: 0.35
+damage:
+  physical: 0.65
+  'true': 0.35
+style:
+  skirmish: 0.85
+  scaling: 0.85
+  dive: 0.5
+mobility: 0.75
+difficulty: 0.25
+off_meta: false
+tags:
+- alpha
+- resets
+- hypercarry
+needs_review: false

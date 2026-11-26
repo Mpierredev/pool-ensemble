@@ -1,0 +1,22 @@
+id: Veigar
+champion_id: 45
+name: Veigar
+roles:
+  mid: 0.9
+  bot: 0.1
+classes:
+  mage: 1.0
+damage:
+  magic: 1.0
+style:
+  burst: 0.9
+  control: 0.8
+  scaling: 0.9
+mobility: 0.1
+difficulty: 0.3
+off_meta: false
+tags:
+- cage
+- stacks
+- evil
+needs_review: false

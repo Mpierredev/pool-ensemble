@@ -1,0 +1,24 @@
+id: JarvanIV
+champion_id: 59
+name: Jarvan IV
+roles:
+  jungle: 0.95
+  top: 0.05
+classes:
+  diver: 0.85
+  tank: 0.15
+damage:
+  physical: 0.95
+  magic: 0.05
+style:
+  engage: 0.95
+  dive: 0.9
+  pick: 0.65
+mobility: 0.7
+difficulty: 0.4
+off_meta: false
+tags:
+- flag
+- cataclysm
+- demacia
+needs_review: false

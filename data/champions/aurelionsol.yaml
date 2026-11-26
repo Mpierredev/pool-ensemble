@@ -1,0 +1,21 @@
+id: AurelionSol
+champion_id: 136
+name: Aurelion Sol
+roles:
+  mid: 1.0
+classes:
+  mage: 1.0
+damage:
+  magic: 1.0
+style:
+  scaling: 0.95
+  control: 0.8
+  poke: 0.35
+mobility: 0.5
+difficulty: 0.5
+off_meta: false
+tags:
+- dragon
+- stardust
+- late
+needs_review: false

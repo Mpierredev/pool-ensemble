@@ -1,0 +1,24 @@
+id: Morgana
+champion_id: 25
+name: Morgana
+roles:
+  support: 0.75
+  mid: 0.15
+  jungle: 0.1
+classes:
+  mage: 0.6
+  enchanter: 0.4
+damage:
+  magic: 1.0
+style:
+  pick: 0.85
+  peel: 0.8
+  control: 0.7
+mobility: 0.15
+difficulty: 0.3
+off_meta: false
+tags:
+- blackshield
+- root
+- pool
+needs_review: false

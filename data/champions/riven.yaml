@@ -1,0 +1,22 @@
+id: Riven
+champion_id: 92
+name: Riven
+roles:
+  top: 1.0
+classes:
+  duelist: 0.6
+  bruiser: 0.4
+damage:
+  physical: 1.0
+style:
+  skirmish: 0.9
+  splitpush: 0.65
+  dive: 0.6
+mobility: 0.9
+difficulty: 0.95
+off_meta: false
+tags:
+- combos
+- animation
+- exile
+needs_review: false

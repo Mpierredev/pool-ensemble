@@ -1,0 +1,23 @@
+id: Zyra
+champion_id: 143
+name: Zyra
+roles:
+  support: 0.75
+  jungle: 0.25
+classes:
+  mage: 0.85
+  specialist: 0.15
+damage:
+  magic: 1.0
+style:
+  control: 0.85
+  poke: 0.85
+  peel: 0.55
+mobility: 0.1
+difficulty: 0.4
+off_meta: false
+tags:
+- plants
+- roots
+- garden
+needs_review: false

@@ -1,0 +1,24 @@
+id: Akali
+champion_id: 84
+name: Akali
+roles:
+  mid: 0.75
+  top: 0.25
+classes:
+  assassin: 0.95
+  duelist: 0.05
+damage:
+  magic: 0.85
+  physical: 0.15
+style:
+  burst: 0.85
+  dive: 0.6
+  skirmish: 0.55
+mobility: 0.9
+difficulty: 0.85
+off_meta: false
+tags:
+- ninja
+- shroud
+- dash
+needs_review: false

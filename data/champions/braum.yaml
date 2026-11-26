@@ -1,0 +1,21 @@
+id: Braum
+champion_id: 201
+name: Braum
+roles:
+  support: 1.0
+classes:
+  tank: 1.0
+damage:
+  magic: 0.75
+  physical: 0.25
+style:
+  peel: 0.95
+  engage: 0.5
+mobility: 0.35
+difficulty: 0.4
+off_meta: false
+tags:
+- shield
+- mustache
+- warden
+needs_review: false

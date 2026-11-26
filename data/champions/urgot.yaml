@@ -1,0 +1,23 @@
+id: Urgot
+champion_id: 6
+name: Urgot
+roles:
+  top: 1.0
+classes:
+  bruiser: 0.85
+  tank: 0.15
+damage:
+  physical: 0.9
+  'true': 0.1
+style:
+  skirmish: 0.8
+  splitpush: 0.6
+  pick: 0.45
+mobility: 0.2
+difficulty: 0.45
+off_meta: false
+tags:
+- knees
+- grinder
+- juggernaut
+needs_review: false

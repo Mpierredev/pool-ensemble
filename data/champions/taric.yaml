@@ -1,0 +1,23 @@
+id: Taric
+champion_id: 44
+name: Taric
+roles:
+  support: 0.9
+  jungle: 0.1
+classes:
+  enchanter: 0.55
+  tank: 0.45
+damage:
+  magic: 0.7
+  physical: 0.3
+style:
+  peel: 0.95
+  engage: 0.5
+mobility: 0.15
+difficulty: 0.6
+off_meta: false
+tags:
+- gems
+- cosmic
+- stun
+needs_review: false

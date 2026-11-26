@@ -1,0 +1,23 @@
+id: Vladimir
+champion_id: 8
+name: Vladimir
+roles:
+  mid: 0.65
+  top: 0.35
+classes:
+  mage: 0.8
+  bruiser: 0.2
+damage:
+  magic: 1.0
+style:
+  scaling: 0.95
+  burst: 0.75
+  skirmish: 0.65
+mobility: 0.35
+difficulty: 0.6
+off_meta: false
+tags:
+- pool
+- crimson
+- late
+needs_review: false

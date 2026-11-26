@@ -1,0 +1,24 @@
+id: Shaco
+champion_id: 35
+name: Shaco
+roles:
+  jungle: 0.75
+  support: 0.25
+classes:
+  assassin: 0.55
+  specialist: 0.45
+damage:
+  physical: 0.55
+  magic: 0.45
+style:
+  chaos: 0.95
+  pick: 0.8
+  burst: 0.7
+mobility: 0.75
+difficulty: 0.75
+off_meta: true
+tags:
+- clown
+- boxes
+- deceive
+needs_review: false

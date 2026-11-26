@@ -1,0 +1,24 @@
+id: Udyr
+champion_id: 77
+name: Udyr
+roles:
+  jungle: 0.85
+  top: 0.15
+classes:
+  bruiser: 0.65
+  tank: 0.35
+damage:
+  magic: 0.65
+  physical: 0.35
+style:
+  skirmish: 0.8
+  splitpush: 0.55
+  control: 0.45
+mobility: 0.65
+difficulty: 0.45
+off_meta: false
+tags:
+- stances
+- bear
+- phoenix
+needs_review: false

@@ -1,0 +1,25 @@
+id: Gragas
+champion_id: 79
+name: Gragas
+roles:
+  top: 0.45
+  jungle: 0.45
+  mid: 0.1
+classes:
+  bruiser: 0.5
+  mage: 0.3
+  tank: 0.2
+damage:
+  magic: 1.0
+style:
+  engage: 0.75
+  peel: 0.65
+  burst: 0.6
+mobility: 0.6
+difficulty: 0.65
+off_meta: false
+tags:
+- cask
+- belly
+- flex
+needs_review: false

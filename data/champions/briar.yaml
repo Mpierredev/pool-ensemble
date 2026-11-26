@@ -1,0 +1,23 @@
+id: Briar
+champion_id: 233
+name: Briar
+roles:
+  jungle: 0.9
+  top: 0.1
+classes:
+  diver: 0.8
+  bruiser: 0.2
+damage:
+  physical: 1.0
+style:
+  dive: 0.9
+  chaos: 0.6
+  skirmish: 0.7
+mobility: 0.65
+difficulty: 0.45
+off_meta: true
+tags:
+- frenzy
+- bite
+- global
+needs_review: false

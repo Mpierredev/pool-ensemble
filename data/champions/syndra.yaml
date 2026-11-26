@@ -1,0 +1,21 @@
+id: Syndra
+champion_id: 134
+name: Syndra
+roles:
+  mid: 1.0
+classes:
+  mage: 1.0
+damage:
+  magic: 1.0
+style:
+  burst: 0.9
+  control: 0.75
+  pick: 0.7
+mobility: 0.15
+difficulty: 0.7
+off_meta: false
+tags:
+- spheres
+- scatter
+- combo
+needs_review: false

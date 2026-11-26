@@ -1,0 +1,22 @@
+id: Kindred
+champion_id: 203
+name: Kindred
+roles:
+  jungle: 1.0
+classes:
+  marksman: 1.0
+damage:
+  physical: 0.9
+  magic: 0.1
+style:
+  skirmish: 0.85
+  scaling: 0.75
+  peel: 0.35
+mobility: 0.75
+difficulty: 0.75
+off_meta: false
+tags:
+- marks
+- lamb
+- invade
+needs_review: false

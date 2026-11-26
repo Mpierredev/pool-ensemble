@@ -1,0 +1,22 @@
+id: Hwei
+champion_id: 910
+name: Hwei
+roles:
+  mid: 0.8
+  support: 0.2
+classes:
+  mage: 1.0
+damage:
+  magic: 1.0
+style:
+  control: 0.9
+  poke: 0.85
+  burst: 0.55
+mobility: 0.2
+difficulty: 0.85
+off_meta: false
+tags:
+- painter
+- combos
+- art
+needs_review: false

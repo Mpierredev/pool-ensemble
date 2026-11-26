@@ -1,0 +1,24 @@
+id: Smolder
+champion_id: 901
+name: Smolder
+roles:
+  bot: 0.85
+  mid: 0.15
+classes:
+  marksman: 0.85
+  mage: 0.15
+damage:
+  physical: 0.65
+  magic: 0.2
+  'true': 0.15
+style:
+  scaling: 0.98
+  poke: 0.7
+mobility: 0.55
+difficulty: 0.35
+off_meta: false
+tags:
+- dragon
+- stacks
+- execute
+needs_review: false

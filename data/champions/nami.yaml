@@ -1,0 +1,22 @@
+id: Nami
+champion_id: 267
+name: Nami
+roles:
+  support: 1.0
+classes:
+  enchanter: 1.0
+damage:
+  magic: 0.95
+  physical: 0.05
+style:
+  peel: 0.85
+  poke: 0.65
+  engage: 0.55
+mobility: 0.4
+difficulty: 0.45
+off_meta: false
+tags:
+- tide
+- bubble
+- heal
+needs_review: false

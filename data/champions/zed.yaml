@@ -1,0 +1,23 @@
+id: Zed
+champion_id: 238
+name: Zed
+roles:
+  mid: 0.8
+  jungle: 0.2
+classes:
+  assassin: 1.0
+damage:
+  physical: 0.95
+  magic: 0.05
+style:
+  burst: 0.95
+  pick: 0.8
+  splitpush: 0.5
+mobility: 0.9
+difficulty: 0.85
+off_meta: false
+tags:
+- shadows
+- ninja
+- deathmark
+needs_review: false

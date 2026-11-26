@@ -1,0 +1,22 @@
+id: Graves
+champion_id: 104
+name: Graves
+roles:
+  jungle: 1.0
+classes:
+  marksman: 0.55
+  bruiser: 0.45
+damage:
+  physical: 1.0
+style:
+  skirmish: 0.85
+  burst: 0.65
+  scaling: 0.6
+mobility: 0.6
+difficulty: 0.6
+off_meta: false
+tags:
+- shotgun
+- grit
+- invade
+needs_review: false

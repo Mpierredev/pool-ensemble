@@ -1,0 +1,22 @@
+id: Katarina
+champion_id: 55
+name: Katarina
+roles:
+  mid: 1.0
+classes:
+  assassin: 1.0
+damage:
+  magic: 0.75
+  physical: 0.25
+style:
+  burst: 0.9
+  dive: 0.7
+  skirmish: 0.75
+mobility: 0.95
+difficulty: 0.85
+off_meta: false
+tags:
+- daggers
+- resets
+- spin
+needs_review: false

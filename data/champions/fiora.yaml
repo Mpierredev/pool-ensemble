@@ -1,0 +1,21 @@
+id: Fiora
+champion_id: 114
+name: Fiora
+roles:
+  top: 1.0
+classes:
+  duelist: 1.0
+damage:
+  physical: 0.6
+  'true': 0.4
+style:
+  splitpush: 0.95
+  skirmish: 0.85
+mobility: 0.75
+difficulty: 0.85
+off_meta: false
+tags:
+- vitals
+- parry
+- sidelane
+needs_review: false

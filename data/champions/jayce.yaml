@@ -1,0 +1,25 @@
+id: Jayce
+champion_id: 126
+name: Jayce
+roles:
+  top: 0.7
+  mid: 0.3
+classes:
+  bruiser: 0.5
+  marksman: 0.3
+  specialist: 0.2
+damage:
+  physical: 0.9
+  magic: 0.1
+style:
+  poke: 0.85
+  burst: 0.65
+  splitpush: 0.5
+mobility: 0.55
+difficulty: 0.8
+off_meta: false
+tags:
+- hammer
+- cannon
+- gate
+needs_review: false

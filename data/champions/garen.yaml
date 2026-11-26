@@ -1,0 +1,24 @@
+id: Garen
+champion_id: 86
+name: Garen
+roles:
+  top: 0.9
+  mid: 0.1
+classes:
+  bruiser: 0.9
+  duelist: 0.1
+damage:
+  physical: 0.75
+  'true': 0.25
+style:
+  skirmish: 0.7
+  splitpush: 0.65
+  pick: 0.4
+mobility: 0.4
+difficulty: 0.15
+off_meta: false
+tags:
+- demacia
+- spin
+- execute
+needs_review: false

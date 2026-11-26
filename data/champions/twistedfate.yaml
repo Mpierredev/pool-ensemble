@@ -1,0 +1,24 @@
+id: TwistedFate
+champion_id: 4
+name: Twisted Fate
+roles:
+  mid: 0.9
+  top: 0.1
+classes:
+  mage: 0.65
+  specialist: 0.35
+damage:
+  magic: 0.8
+  physical: 0.2
+style:
+  pick: 0.9
+  control: 0.65
+  splitpush: 0.55
+mobility: 0.55
+difficulty: 0.65
+off_meta: false
+tags:
+- cards
+- destiny
+- roam
+needs_review: false

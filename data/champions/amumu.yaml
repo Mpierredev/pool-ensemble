@@ -1,0 +1,23 @@
+id: Amumu
+champion_id: 32
+name: Amumu
+roles:
+  jungle: 0.8
+  support: 0.2
+classes:
+  tank: 0.9
+  diver: 0.1
+damage:
+  magic: 0.9
+  'true': 0.1
+style:
+  engage: 0.95
+  control: 0.45
+mobility: 0.45
+difficulty: 0.25
+off_meta: false
+tags:
+- mummy
+- aoe
+- stun
+needs_review: false

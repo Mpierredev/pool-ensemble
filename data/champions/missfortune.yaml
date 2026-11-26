@@ -1,0 +1,22 @@
+id: MissFortune
+champion_id: 21
+name: Miss Fortune
+roles:
+  bot: 1.0
+classes:
+  marksman: 1.0
+damage:
+  physical: 0.9
+  magic: 0.1
+style:
+  burst: 0.7
+  poke: 0.65
+  engage: 0.4
+mobility: 0.4
+difficulty: 0.25
+off_meta: false
+tags:
+- bullet
+- strut
+- wombo
+needs_review: false

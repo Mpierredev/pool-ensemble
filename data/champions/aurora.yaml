@@ -1,0 +1,23 @@
+id: Aurora
+champion_id: 893
+name: Aurora
+roles:
+  mid: 0.75
+  top: 0.25
+classes:
+  mage: 0.7
+  assassin: 0.3
+damage:
+  magic: 1.0
+style:
+  burst: 0.75
+  skirmish: 0.6
+  control: 0.45
+mobility: 0.7
+difficulty: 0.6
+off_meta: false
+tags:
+- bunny
+- realm
+- hop
+needs_review: false

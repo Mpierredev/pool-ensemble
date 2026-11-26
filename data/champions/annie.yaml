@@ -1,0 +1,23 @@
+id: Annie
+champion_id: 1
+name: Annie
+roles:
+  mid: 0.8
+  support: 0.2
+classes:
+  mage: 0.95
+  enchanter: 0.05
+damage:
+  magic: 1.0
+style:
+  burst: 0.9
+  engage: 0.6
+  control: 0.4
+mobility: 0.2
+difficulty: 0.25
+off_meta: false
+tags:
+- bear
+- stun
+- combo
+needs_review: false

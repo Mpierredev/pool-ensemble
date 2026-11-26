@@ -1,0 +1,6 @@
+id: elenco_caotico
+fallback_kind: chaotic
+rarity_hint: uncommon
+palette:
+  bg: "#1a131f"
+  accent: "#fb7185"

@@ -1,0 +1,24 @@
+id: Kennen
+champion_id: 85
+name: Kennen
+roles:
+  top: 0.9
+  mid: 0.1
+classes:
+  mage: 0.7
+  specialist: 0.3
+damage:
+  magic: 0.9
+  physical: 0.1
+style:
+  engage: 0.85
+  control: 0.65
+  poke: 0.45
+mobility: 0.6
+difficulty: 0.55
+off_meta: false
+tags:
+- storm
+- ninja
+- stun
+needs_review: false

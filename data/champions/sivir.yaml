@@ -1,0 +1,21 @@
+id: Sivir
+champion_id: 15
+name: Sivir
+roles:
+  bot: 1.0
+classes:
+  marksman: 1.0
+damage:
+  physical: 1.0
+style:
+  scaling: 0.85
+  poke: 0.5
+  control: 0.45
+mobility: 0.4
+difficulty: 0.3
+off_meta: false
+tags:
+- ricochet
+- spellshield
+- waveclear
+needs_review: false

@@ -1,0 +1,22 @@
+id: Vi
+champion_id: 254
+name: Vi
+roles:
+  jungle: 1.0
+classes:
+  diver: 0.9
+  bruiser: 0.1
+damage:
+  physical: 1.0
+style:
+  dive: 0.95
+  engage: 0.9
+  pick: 0.85
+mobility: 0.7
+difficulty: 0.3
+off_meta: false
+tags:
+- punch
+- lockdown
+- piltover
+needs_review: false

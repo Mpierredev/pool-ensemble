@@ -1,0 +1,21 @@
+id: Jinx
+champion_id: 222
+name: Jinx
+roles:
+  bot: 1.0
+classes:
+  marksman: 1.0
+damage:
+  physical: 1.0
+style:
+  scaling: 0.95
+  poke: 0.45
+  skirmish: 0.5
+mobility: 0.35
+difficulty: 0.45
+off_meta: false
+tags:
+- excited
+- rockets
+- hypercarry
+needs_review: false

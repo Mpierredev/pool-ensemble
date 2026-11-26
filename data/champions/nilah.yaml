@@ -1,0 +1,22 @@
+id: Nilah
+champion_id: 895
+name: Nilah
+roles:
+  bot: 1.0
+classes:
+  duelist: 0.55
+  marksman: 0.45
+damage:
+  physical: 1.0
+style:
+  dive: 0.75
+  skirmish: 0.85
+  scaling: 0.8
+mobility: 0.7
+difficulty: 0.7
+off_meta: false
+tags:
+- whip
+- xp
+- melee
+needs_review: false

@@ -1,0 +1,25 @@
+id: Poppy
+champion_id: 78
+name: Poppy
+roles:
+  jungle: 0.45
+  support: 0.3
+  top: 0.25
+classes:
+  tank: 0.8
+  diver: 0.2
+damage:
+  physical: 0.9
+  magic: 0.1
+style:
+  peel: 0.9
+  engage: 0.7
+  pick: 0.55
+mobility: 0.5
+difficulty: 0.5
+off_meta: false
+tags:
+- steadfast
+- hammer
+- antidash
+needs_review: false

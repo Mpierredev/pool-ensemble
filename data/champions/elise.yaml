@@ -1,0 +1,23 @@
+id: Elise
+champion_id: 60
+name: Elise
+roles:
+  jungle: 0.9
+  support: 0.1
+classes:
+  assassin: 0.55
+  diver: 0.45
+damage:
+  magic: 1.0
+style:
+  pick: 0.85
+  dive: 0.8
+  burst: 0.7
+mobility: 0.65
+difficulty: 0.75
+off_meta: false
+tags:
+- spider
+- cocoon
+- towerdive
+needs_review: false

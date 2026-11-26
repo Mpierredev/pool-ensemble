@@ -1,0 +1,21 @@
+id: Aatrox
+champion_id: 266
+name: Aatrox
+roles:
+  top: 1.0
+classes:
+  bruiser: 0.85
+  diver: 0.15
+damage:
+  physical: 1.0
+style:
+  skirmish: 0.7
+  engage: 0.4
+mobility: 0.45
+difficulty: 0.65
+off_meta: false
+tags:
+- darkin
+- sustain
+- juggernaut
+needs_review: false

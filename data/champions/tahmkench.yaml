@@ -1,0 +1,24 @@
+id: TahmKench
+champion_id: 223
+name: Tahm Kench
+roles:
+  top: 0.6
+  support: 0.4
+classes:
+  tank: 0.9
+  bruiser: 0.1
+damage:
+  magic: 0.8
+  physical: 0.2
+style:
+  peel: 0.85
+  skirmish: 0.65
+  engage: 0.55
+mobility: 0.35
+difficulty: 0.35
+off_meta: false
+tags:
+- catfish
+- devour
+- lick
+needs_review: false

@@ -1,0 +1,23 @@
+id: Taliyah
+champion_id: 163
+name: Taliyah
+roles:
+  jungle: 0.55
+  mid: 0.45
+classes:
+  mage: 0.9
+  specialist: 0.1
+damage:
+  magic: 1.0
+style:
+  control: 0.85
+  pick: 0.75
+  poke: 0.6
+mobility: 0.65
+difficulty: 0.75
+off_meta: false
+tags:
+- weaver
+- rocks
+- roam
+needs_review: false

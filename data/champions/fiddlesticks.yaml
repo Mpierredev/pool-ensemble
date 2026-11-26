@@ -1,0 +1,23 @@
+id: Fiddlesticks
+champion_id: 9
+name: Fiddlesticks
+roles:
+  jungle: 0.9
+  support: 0.1
+classes:
+  mage: 0.7
+  specialist: 0.3
+damage:
+  magic: 1.0
+style:
+  engage: 0.9
+  control: 0.65
+  burst: 0.75
+mobility: 0.4
+difficulty: 0.65
+off_meta: false
+tags:
+- crowstorm
+- ambush
+- fear
+needs_review: false

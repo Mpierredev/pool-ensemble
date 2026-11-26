@@ -1,0 +1,25 @@
+id: Yasuo
+champion_id: 157
+name: Yasuo
+roles:
+  mid: 0.6
+  top: 0.3
+  bot: 0.1
+classes:
+  duelist: 0.7
+  assassin: 0.3
+damage:
+  physical: 0.95
+  magic: 0.05
+style:
+  skirmish: 0.9
+  dive: 0.6
+  scaling: 0.75
+mobility: 0.9
+difficulty: 0.85
+off_meta: false
+tags:
+- windwall
+- hasagi
+- knockup
+needs_review: false

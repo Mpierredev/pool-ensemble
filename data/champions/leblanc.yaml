@@ -1,0 +1,22 @@
+id: Leblanc
+champion_id: 7
+name: LeBlanc
+roles:
+  mid: 0.9
+  support: 0.1
+classes:
+  assassin: 0.6
+  mage: 0.4
+damage:
+  magic: 1.0
+style:
+  burst: 0.9
+  pick: 0.85
+mobility: 0.95
+difficulty: 0.85
+off_meta: false
+tags:
+- clone
+- chains
+- distort
+needs_review: false

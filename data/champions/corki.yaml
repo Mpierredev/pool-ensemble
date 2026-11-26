@@ -1,0 +1,25 @@
+id: Corki
+champion_id: 42
+name: Corki
+roles:
+  mid: 0.7
+  bot: 0.3
+classes:
+  marksman: 0.7
+  mage: 0.3
+damage:
+  physical: 0.75
+  magic: 0.2
+  'true': 0.05
+style:
+  poke: 0.75
+  burst: 0.55
+  skirmish: 0.5
+mobility: 0.6
+difficulty: 0.55
+off_meta: false
+tags:
+- valkyrie
+- rockets
+- package
+needs_review: false

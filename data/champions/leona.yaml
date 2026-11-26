@@ -1,0 +1,22 @@
+id: Leona
+champion_id: 89
+name: Leona
+roles:
+  support: 1.0
+classes:
+  tank: 1.0
+damage:
+  magic: 0.8
+  physical: 0.2
+style:
+  engage: 0.98
+  dive: 0.65
+  control: 0.55
+mobility: 0.4
+difficulty: 0.35
+off_meta: false
+tags:
+- sun
+- lockdown
+- stuns
+needs_review: false

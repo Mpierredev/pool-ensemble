@@ -1,0 +1,22 @@
+id: Ryze
+champion_id: 13
+name: Ryze
+roles:
+  mid: 0.85
+  top: 0.15
+classes:
+  mage: 1.0
+damage:
+  magic: 1.0
+style:
+  control: 0.75
+  scaling: 0.85
+  skirmish: 0.65
+mobility: 0.45
+difficulty: 0.7
+off_meta: false
+tags:
+- runes
+- realm
+- waveclear
+needs_review: false

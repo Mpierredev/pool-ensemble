@@ -1,0 +1,24 @@
+id: MonkeyKing
+champion_id: 62
+name: Wukong
+roles:
+  jungle: 0.6
+  top: 0.4
+classes:
+  diver: 0.65
+  bruiser: 0.35
+damage:
+  physical: 0.95
+  magic: 0.05
+style:
+  engage: 0.85
+  dive: 0.8
+  skirmish: 0.7
+mobility: 0.7
+difficulty: 0.45
+off_meta: false
+tags:
+- clone
+- cyclone
+- monkey
+needs_review: false

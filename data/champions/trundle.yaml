@@ -1,0 +1,24 @@
+id: Trundle
+champion_id: 48
+name: Trundle
+roles:
+  top: 0.6
+  jungle: 0.4
+classes:
+  bruiser: 0.75
+  duelist: 0.25
+damage:
+  physical: 0.95
+  magic: 0.05
+style:
+  splitpush: 0.9
+  skirmish: 0.8
+  pick: 0.45
+mobility: 0.4
+difficulty: 0.2
+off_meta: false
+tags:
+- pillar
+- troll
+- towers
+needs_review: false

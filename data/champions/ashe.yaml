@@ -1,0 +1,24 @@
+id: Ashe
+champion_id: 22
+name: Ashe
+roles:
+  bot: 0.85
+  support: 0.15
+classes:
+  marksman: 0.9
+  specialist: 0.1
+damage:
+  physical: 0.9
+  magic: 0.1
+style:
+  pick: 0.75
+  poke: 0.6
+  control: 0.5
+mobility: 0.2
+difficulty: 0.35
+off_meta: false
+tags:
+- arrow
+- slow
+- utility
+needs_review: false

@@ -1,0 +1,22 @@
+id: Nautilus
+champion_id: 111
+name: Nautilus
+roles:
+  support: 1.0
+classes:
+  tank: 1.0
+damage:
+  magic: 0.85
+  physical: 0.15
+style:
+  engage: 0.98
+  pick: 0.85
+  peel: 0.55
+mobility: 0.35
+difficulty: 0.3
+off_meta: false
+tags:
+- anchor
+- hook
+- depth
+needs_review: false
