@@ -1,4 +1,4 @@
-.PHONY: api-dev web-dev dev lint typecheck test check
+.PHONY: api-dev web-dev dev lint typecheck test validate check
 
 api-dev:
 	cd apps/api && uv run uvicorn pool_ensemble.main:app --reload --port 8000
@@ -10,7 +10,7 @@ dev:
 	docker compose up --build
 
 lint:
-	cd apps/api && uv run ruff check . && uv run ruff format --check .
+	cd apps/api && uv run ruff check . ../../scripts && uv run ruff format --check . ../../scripts
 	cd apps/web && npm run lint
 
 typecheck:
@@ -21,4 +21,7 @@ test:
 	cd apps/api && uv run pytest
 	cd apps/web && npm test
 
-check: lint typecheck test
+validate:
+	cd apps/api && uv run python ../../scripts/validate_content.py
+
+check: lint typecheck validate test
